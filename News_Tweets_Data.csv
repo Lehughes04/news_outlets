@@ -1,0 +1,587 @@
+news_outlet,tweet_date,tweet_text,username,compound,positive,negative,neutral,date
+@nytimes,Mon Dec 18 02:32:12 +0000 2017,Toronto Buzzes With Talk of Billionaire Couple’s Suspicious Death https://t.co/pon0pjbUu4,nytimes,-0.7506,0.0,0.444,0.556,2017-12-18 02:32:12
+@nytimes,Mon Dec 18 02:32:12 +0000 2017,Toronto Buzzes With Talk of Billionaire Couple’s Suspicious Death https://t.co/pon0pjbUu4,nytimes,-0.7506,0.0,0.444,0.556,2017-12-18 02:32:12
+@FoxNews,Mon Dec 18 02:23:34 +0000 2017,#ALSen.-Elect @GDouglasJones Calls for 'Common Ground' https://t.co/KtCXbgSyxo https://t.co/Ib0VpZLKxz,FoxNews,0.0,0.0,0.0,1.0,2017-12-18 02:23:34
+@FoxNews,Mon Dec 18 02:22:14 +0000 2017,".@KevinJacksonTBS: ""They say nothing is foolproof for a sufficiently talented fool, and @RahmEmanuel proves that ev… https://t.co/jo367s7pQs",FoxNews,-0.1984,0.154,0.238,0.608,2017-12-18 02:22:14
+@FoxNews,Mon Dec 18 02:22:14 +0000 2017,".@KevinJacksonTBS: ""They say nothing is foolproof for a sufficiently talented fool, and @RahmEmanuel proves that ev… https://t.co/jo367s7pQs",FoxNews,-0.1984,0.154,0.238,0.608,2017-12-18 02:22:14
+@FoxNews,Mon Dec 18 02:17:40 +0000 2017,".@SteveHiltonx: ""Populism is pro-worker, while elitism is pro-owner. Populism is pro-family, while elitism is pro-i… https://t.co/VrOVgXnxbg",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 02:17:40
+@FoxNews,Mon Dec 18 02:17:40 +0000 2017,".@SteveHiltonx: ""Populism is pro-worker, while elitism is pro-owner. Populism is pro-family, while elitism is pro-i… https://t.co/VrOVgXnxbg",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 02:17:40
+@CNN,Mon Dec 18 02:14:28 +0000 2017,"At least 27 people have died in the Philippines as a result of landslides caused by Tropical Storm Urduja, accordin… https://t.co/25YkMVMaTL",CNN,-0.5574,0.0,0.159,0.841,2017-12-18 02:14:28
+@CNN,Mon Dec 18 02:14:28 +0000 2017,"At least 27 people have died in the Philippines as a result of landslides caused by Tropical Storm Urduja, accordin… https://t.co/25YkMVMaTL",CNN,-0.5574,0.0,0.159,0.841,2017-12-18 02:14:28
+@FoxNews,Mon Dec 18 02:14:05 +0000 2017,.@POTUS says he does not plan to fire Robert Mueller. https://t.co/bWaY9BZdSm https://t.co/y6IyluX4uq,FoxNews,0.2584,0.156,0.0,0.844,2017-12-18 02:14:05
+@FoxNews,Mon Dec 18 02:14:05 +0000 2017,.@POTUS says he does not plan to fire Robert Mueller. https://t.co/bWaY9BZdSm https://t.co/y6IyluX4uq,FoxNews,0.2584,0.156,0.0,0.844,2017-12-18 02:14:05
+@CNN,Mon Dec 18 02:11:25 +0000 2017,"RT @CNNHeroes: ""It takes almost 600 years for a plastic water bottle to break down so that's why we recycle"" says Young Wonder Ryan Hickman…",CNN,0.0,0.0,0.0,1.0,2017-12-18 02:11:25
+@CNN,Mon Dec 18 02:11:25 +0000 2017,"RT @CNNHeroes: ""It takes almost 600 years for a plastic water bottle to break down so that's why we recycle"" says Young Wonder Ryan Hickman…",CNN,0.0,0.0,0.0,1.0,2017-12-18 02:11:25
+@FoxNews,Mon Dec 18 02:10:10 +0000 2017,".@RubenNavarrette: ""I've never seen the President even think about or talk about, hint at firing Mueller. That's a… https://t.co/jJfpqHNzeN",FoxNews,-0.34,0.0,0.118,0.882,2017-12-18 02:10:10
+@FoxNews,Mon Dec 18 02:10:10 +0000 2017,".@RubenNavarrette: ""I've never seen the President even think about or talk about, hint at firing Mueller. That's a… https://t.co/jJfpqHNzeN",FoxNews,-0.34,0.0,0.118,0.882,2017-12-18 02:10:10
+@FoxNews,Mon Dec 18 02:09:16 +0000 2017,".@KevinJacksonTBS: ""Mueller's stacked the deck against @realDonaldTrump with all these Hillary lovers, anti-Trump p… https://t.co/XyTAq8hobj",FoxNews,0.5267,0.195,0.0,0.805,2017-12-18 02:09:16
+@FoxNews,Mon Dec 18 02:09:16 +0000 2017,".@KevinJacksonTBS: ""Mueller's stacked the deck against @realDonaldTrump with all these Hillary lovers, anti-Trump p… https://t.co/XyTAq8hobj",FoxNews,0.5267,0.195,0.0,0.805,2017-12-18 02:09:16
+@nytimes,Mon Dec 18 02:07:04 +0000 2017,"Luke Skywalker’s lineage is a narrative backbone in ""Star Wars."" So it's natural to wonder: who are Rey's parents?… https://t.co/tdzDPb1bUY",nytimes,0.4173,0.134,0.0,0.866,2017-12-18 02:07:04
+@nytimes,Mon Dec 18 02:07:04 +0000 2017,"Luke Skywalker’s lineage is a narrative backbone in ""Star Wars."" So it's natural to wonder: who are Rey's parents?… https://t.co/tdzDPb1bUY",nytimes,0.4173,0.134,0.0,0.866,2017-12-18 02:07:04
+@FoxNews,Mon Dec 18 02:04:53 +0000 2017,".@TheWorldsFrates: ""The collusion [narrative] is falling apart on its own."" @NextRevFNC https://t.co/cJIfKdFRKO",FoxNews,-0.1531,0.0,0.127,0.873,2017-12-18 02:04:53
+@FoxNews,Mon Dec 18 02:04:53 +0000 2017,".@TheWorldsFrates: ""The collusion [narrative] is falling apart on its own."" @NextRevFNC https://t.co/cJIfKdFRKO",FoxNews,-0.1531,0.0,0.127,0.873,2017-12-18 02:04:53
+@FoxNews,Mon Dec 18 02:03:40 +0000 2017,".@KevinJacksonTBS: ""Every piece of information has led to the untenable conclusion that there was no collusion with… https://t.co/cbzwgTjuvf",FoxNews,-0.296,0.0,0.115,0.885,2017-12-18 02:03:40
+@FoxNews,Mon Dec 18 02:03:40 +0000 2017,".@KevinJacksonTBS: ""Every piece of information has led to the untenable conclusion that there was no collusion with… https://t.co/cbzwgTjuvf",FoxNews,-0.296,0.0,0.115,0.885,2017-12-18 02:03:40
+@FoxNews,Mon Dec 18 02:01:05 +0000 2017,"Trump lawyer Cobb says Mueller 'won't be fired' by Trump, dispelling 'rumor' https://t.co/sjU1nwW8QZ https://t.co/hyVIePhrGN",FoxNews,0.4449,0.184,0.0,0.816,2017-12-18 02:01:05
+@FoxNews,Mon Dec 18 02:01:05 +0000 2017,"Trump lawyer Cobb says Mueller 'won't be fired' by Trump, dispelling 'rumor' https://t.co/sjU1nwW8QZ https://t.co/hyVIePhrGN",FoxNews,0.4449,0.184,0.0,0.816,2017-12-18 02:01:05
+@CNN,Mon Dec 18 02:00:34 +0000 2017,Shocking postmortem incisions on her son's body after he was fatally shot by police led this Chicago mom to ask CNN… https://t.co/mHGpJsIuDx,CNN,-0.7845,0.0,0.257,0.743,2017-12-18 02:00:34
+@CNN,Mon Dec 18 02:00:34 +0000 2017,Shocking postmortem incisions on her son's body after he was fatally shot by police led this Chicago mom to ask CNN… https://t.co/mHGpJsIuDx,CNN,-0.7845,0.0,0.257,0.743,2017-12-18 02:00:34
+@CBSNews,Mon Dec 18 01:57:17 +0000 2017,"""Do I need a British accent?"": Former President Barack Obama jokes with Prince Harry before their interview on BBC… https://t.co/Za94o5uI1H",CBSNews,0.25,0.105,0.0,0.895,2017-12-18 01:57:17
+@CBSNews,Mon Dec 18 01:57:17 +0000 2017,"""Do I need a British accent?"": Former President Barack Obama jokes with Prince Harry before their interview on BBC… https://t.co/Za94o5uI1H",CBSNews,0.25,0.105,0.0,0.895,2017-12-18 01:57:17
+@FoxNews,Mon Dec 18 01:57:16 +0000 2017,".@lauraingle: ""I think about Sharon. I think about her entire family every single Christmas. I think about the life… https://t.co/QcEoDT4XRW",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 01:57:16
+@FoxNews,Mon Dec 18 01:57:16 +0000 2017,".@lauraingle: ""I think about Sharon. I think about her entire family every single Christmas. I think about the life… https://t.co/QcEoDT4XRW",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 01:57:16
+@FoxNews,Mon Dec 18 01:52:00 +0000 2017,".@lauraingle: ""I remember hearing the applause and cheers [for guilty verdict] from very deep in that courthouse.""… https://t.co/UjwvGlm2BH",FoxNews,0.4767,0.249,0.118,0.633,2017-12-18 01:52:00
+@FoxNews,Mon Dec 18 01:52:00 +0000 2017,".@lauraingle: ""I remember hearing the applause and cheers [for guilty verdict] from very deep in that courthouse.""… https://t.co/UjwvGlm2BH",FoxNews,0.4767,0.249,0.118,0.633,2017-12-18 01:52:00
+@CBSNews,Mon Dec 18 01:50:52 +0000 2017,"NEW: Further evaluation of @SenJohnMcCain's cancer shows he is ""responding positively to ongoing treatment,"" accord… https://t.co/Kuf6Fmgjqn",CBSNews,-0.25,0.156,0.202,0.642,2017-12-18 01:50:52
+@CBSNews,Mon Dec 18 01:50:52 +0000 2017,"NEW: Further evaluation of @SenJohnMcCain's cancer shows he is ""responding positively to ongoing treatment,"" accord… https://t.co/Kuf6Fmgjqn",CBSNews,-0.25,0.156,0.202,0.642,2017-12-18 01:50:52
+@FoxNews,Mon Dec 18 01:50:32 +0000 2017,RT @lauraingle: One of my many courtroom passes for the #ScottPeterson trial in Redwood City. If U weren’t a  national or local reporter yo…,FoxNews,0.0,0.0,0.0,1.0,2017-12-18 01:50:32
+@FoxNews,Mon Dec 18 01:50:32 +0000 2017,RT @lauraingle: One of my many courtroom passes for the #ScottPeterson trial in Redwood City. If U weren’t a  national or local reporter yo…,FoxNews,0.0,0.0,0.0,1.0,2017-12-18 01:50:32
+@FoxNews,Mon Dec 18 01:50:19 +0000 2017,".@USArmy sergeant killed in Niger attack not captured, despite reports https://t.co/dSdVfaXlUq https://t.co/1R0CRCUqNu",FoxNews,-0.8225,0.0,0.432,0.568,2017-12-18 01:50:19
+@FoxNews,Mon Dec 18 01:50:19 +0000 2017,".@USArmy sergeant killed in Niger attack not captured, despite reports https://t.co/dSdVfaXlUq https://t.co/1R0CRCUqNu",FoxNews,-0.8225,0.0,0.432,0.568,2017-12-18 01:50:19
+@BBCNews,Mon Dec 18 01:49:35 +0000 2017,Depression: 'I kept my head down to survive the day at work' https://t.co/IhjYNgF80j,BBCNews,-0.5719,0.0,0.236,0.764,2017-12-18 01:49:35
+@BBCNews,Mon Dec 18 01:49:35 +0000 2017,Depression: 'I kept my head down to survive the day at work' https://t.co/IhjYNgF80j,BBCNews,-0.5719,0.0,0.236,0.764,2017-12-18 01:49:35
+@nytimes,Mon Dec 18 01:48:10 +0000 2017,"John McCain, Fighting Brain Cancer, Likely to Miss Vote on Tax Overhaul https://t.co/2G0SRZwm2F",nytimes,-0.8176,0.0,0.459,0.541,2017-12-18 01:48:10
+@nytimes,Mon Dec 18 01:48:10 +0000 2017,"John McCain, Fighting Brain Cancer, Likely to Miss Vote on Tax Overhaul https://t.co/2G0SRZwm2F",nytimes,-0.8176,0.0,0.459,0.541,2017-12-18 01:48:10
+@FoxNews,Mon Dec 18 01:45:54 +0000 2017,".@lauraingle: ""[#ScottPeterson] had way too much stuff to be just casually going out of town. That was being prepar… https://t.co/lfiY7PTSsf",FoxNews,0.1779,0.082,0.0,0.918,2017-12-18 01:45:54
+@FoxNews,Mon Dec 18 01:45:54 +0000 2017,".@lauraingle: ""[#ScottPeterson] had way too much stuff to be just casually going out of town. That was being prepar… https://t.co/lfiY7PTSsf",FoxNews,0.1779,0.082,0.0,0.918,2017-12-18 01:45:54
+@FoxNews,Mon Dec 18 01:42:53 +0000 2017,.@DrDarrinPorcher: Rooting Against Trump Like Boarding a Plane and Hoping It Crashes https://t.co/1QfP94OPKO,FoxNews,0.6486,0.346,0.0,0.654,2017-12-18 01:42:53
+@FoxNews,Mon Dec 18 01:42:53 +0000 2017,.@DrDarrinPorcher: Rooting Against Trump Like Boarding a Plane and Hoping It Crashes https://t.co/1QfP94OPKO,FoxNews,0.6486,0.346,0.0,0.654,2017-12-18 01:42:53
+@FoxNews,Mon Dec 18 01:41:29 +0000 2017,"Congress's critical week to include final tax vote, avoiding shutdown, key Russia-related testimony https://t.co/LQYsDmpH4g",FoxNews,-0.5719,0.0,0.281,0.719,2017-12-18 01:41:29
+@FoxNews,Mon Dec 18 01:41:29 +0000 2017,"Congress's critical week to include final tax vote, avoiding shutdown, key Russia-related testimony https://t.co/LQYsDmpH4g",FoxNews,-0.5719,0.0,0.281,0.719,2017-12-18 01:41:29
+@nytimes,Mon Dec 18 01:41:13 +0000 2017,Jerry Richardson Will Sell Carolina Panthers Amid Misconduct Allegations https://t.co/C7ZIZ2nVlj,nytimes,0.0,0.0,0.0,1.0,2017-12-18 01:41:13
+@nytimes,Mon Dec 18 01:41:13 +0000 2017,Jerry Richardson Will Sell Carolina Panthers Amid Misconduct Allegations https://t.co/C7ZIZ2nVlj,nytimes,0.0,0.0,0.0,1.0,2017-12-18 01:41:13
+@BBCNews,Mon Dec 18 01:38:59 +0000 2017,Steroid abuse 'raising health risk for thousands' https://t.co/yfVyNqx1Wa,BBCNews,-0.743,0.0,0.512,0.488,2017-12-18 01:38:59
+@BBCNews,Mon Dec 18 01:38:59 +0000 2017,Steroid abuse 'raising health risk for thousands' https://t.co/yfVyNqx1Wa,BBCNews,-0.743,0.0,0.512,0.488,2017-12-18 01:38:59
+@CBSNews,Mon Dec 18 01:35:01 +0000 2017,An effort to conserve a species has rhinos flying high... and upside down.  https://t.co/O0uBCfJ7KD https://t.co/G9Vzch29C3,CBSNews,0.0,0.0,0.0,1.0,2017-12-18 01:35:01
+@CBSNews,Mon Dec 18 01:35:01 +0000 2017,An effort to conserve a species has rhinos flying high... and upside down.  https://t.co/O0uBCfJ7KD https://t.co/G9Vzch29C3,CBSNews,0.0,0.0,0.0,1.0,2017-12-18 01:35:01
+@FoxNews,Mon Dec 18 01:34:45 +0000 2017,'I'm Going to Be a Doug Jones Democrat': AL Sen-Elect Calls for 'Common Ground' https://t.co/TmGrt5sA9u,FoxNews,0.0,0.0,0.0,1.0,2017-12-18 01:34:45
+@FoxNews,Mon Dec 18 01:34:45 +0000 2017,'I'm Going to Be a Doug Jones Democrat': AL Sen-Elect Calls for 'Common Ground' https://t.co/TmGrt5sA9u,FoxNews,0.0,0.0,0.0,1.0,2017-12-18 01:34:45
+@nytimes,Mon Dec 18 01:33:57 +0000 2017,Editorial: The Spiraling Diaspora From Puerto Rico https://t.co/Ryz5UAQpHL,nytimes,0.0,0.0,0.0,1.0,2017-12-18 01:33:57
+@nytimes,Mon Dec 18 01:33:57 +0000 2017,Editorial: The Spiraling Diaspora From Puerto Rico https://t.co/Ryz5UAQpHL,nytimes,0.0,0.0,0.0,1.0,2017-12-18 01:33:57
+@CNN,Mon Dec 18 01:30:15 +0000 2017,"Is the science and technology seen in the ""Star Wars"" movies even remotely possible? Physicist Don Lincoln takes a… https://t.co/7GiVxaIyDA",CNN,-0.5574,0.0,0.159,0.841,2017-12-18 01:30:15
+@CNN,Mon Dec 18 01:30:15 +0000 2017,"Is the science and technology seen in the ""Star Wars"" movies even remotely possible? Physicist Don Lincoln takes a… https://t.co/7GiVxaIyDA",CNN,-0.5574,0.0,0.159,0.841,2017-12-18 01:30:15
+@FoxNews,Mon Dec 18 01:27:39 +0000 2017,".@lauraingle: ""You can really see the lies"" in #ScottPeterson interviews. #LaciPeterson https://t.co/9EB5pX4vZM https://t.co/Inm2nSHWjc",FoxNews,-0.4703,0.0,0.203,0.797,2017-12-18 01:27:39
+@FoxNews,Mon Dec 18 01:27:39 +0000 2017,".@lauraingle: ""You can really see the lies"" in #ScottPeterson interviews. #LaciPeterson https://t.co/9EB5pX4vZM https://t.co/Inm2nSHWjc",FoxNews,-0.4703,0.0,0.203,0.797,2017-12-18 01:27:39
+@CBSNews,Mon Dec 18 01:27:32 +0000 2017,JUST IN: Carolina Panthers team owner Jerry Richardson will put the team up for sale amid allegations of misconduct… https://t.co/Sop670YDo7,CBSNews,0.0,0.0,0.0,1.0,2017-12-18 01:27:32
+@CBSNews,Mon Dec 18 01:27:32 +0000 2017,JUST IN: Carolina Panthers team owner Jerry Richardson will put the team up for sale amid allegations of misconduct… https://t.co/Sop670YDo7,CBSNews,0.0,0.0,0.0,1.0,2017-12-18 01:27:32
+@nytimes,Mon Dec 18 01:25:06 +0000 2017,"From secret baby to warrior to general, how Princess Leia became one of the most iconic characters in ""Star Wars""… https://t.co/P6aH8eBSYq",nytimes,0.0,0.0,0.0,1.0,2017-12-18 01:25:06
+@nytimes,Mon Dec 18 01:25:06 +0000 2017,"From secret baby to warrior to general, how Princess Leia became one of the most iconic characters in ""Star Wars""… https://t.co/P6aH8eBSYq",nytimes,0.0,0.0,0.0,1.0,2017-12-18 01:25:06
+@FoxNews,Mon Dec 18 01:21:12 +0000 2017,"In an interview today, @BernieSanders called the GOP tax reform plan ""grossly unfair."" https://t.co/Owdlp0v26B",FoxNews,-0.2263,0.0,0.128,0.872,2017-12-18 01:21:12
+@FoxNews,Mon Dec 18 01:21:12 +0000 2017,"In an interview today, @BernieSanders called the GOP tax reform plan ""grossly unfair."" https://t.co/Owdlp0v26B",FoxNews,-0.2263,0.0,0.128,0.872,2017-12-18 01:21:12
+@nytimes,Mon Dec 18 01:21:04 +0000 2017,E.P.A. Employees Spoke Out. Then Came Scrutiny of Their Email. https://t.co/yvzuktZZIS,nytimes,0.0,0.0,0.0,1.0,2017-12-18 01:21:04
+@nytimes,Mon Dec 18 01:21:04 +0000 2017,E.P.A. Employees Spoke Out. Then Came Scrutiny of Their Email. https://t.co/yvzuktZZIS,nytimes,0.0,0.0,0.0,1.0,2017-12-18 01:21:04
+@FoxNews,Mon Dec 18 01:19:41 +0000 2017,"Dog survives plane crash in Indiana that kills 3 people, 2nd canine https://t.co/3XwcfGmcmZ",FoxNews,-0.7351,0.0,0.383,0.617,2017-12-18 01:19:41
+@FoxNews,Mon Dec 18 01:19:41 +0000 2017,"Dog survives plane crash in Indiana that kills 3 people, 2nd canine https://t.co/3XwcfGmcmZ",FoxNews,-0.7351,0.0,0.383,0.617,2017-12-18 01:19:41
+@FoxNews,Mon Dec 18 01:16:30 +0000 2017,RT @lauraingle: The #LaciPeterson case captured the attention of the nation 15 years ago. Watching our @FoxNews special now - here are some…,FoxNews,0.4019,0.114,0.0,0.886,2017-12-18 01:16:30
+@FoxNews,Mon Dec 18 01:16:30 +0000 2017,RT @lauraingle: The #LaciPeterson case captured the attention of the nation 15 years ago. Watching our @FoxNews special now - here are some…,FoxNews,0.4019,0.114,0.0,0.886,2017-12-18 01:16:30
+@CBSNews,Mon Dec 18 01:15:01 +0000 2017,"Christian Picciolini spent eight years in the white supremacist movement, now he's trying to stop it… https://t.co/oFfoKdErvS",CBSNews,-0.1779,0.08,0.118,0.802,2017-12-18 01:15:01
+@CBSNews,Mon Dec 18 01:15:01 +0000 2017,"Christian Picciolini spent eight years in the white supremacist movement, now he's trying to stop it… https://t.co/oFfoKdErvS",CBSNews,-0.1779,0.08,0.118,0.802,2017-12-18 01:15:01
+@FoxNews,Mon Dec 18 01:12:32 +0000 2017,"On ""Fox Report,"" NYPD Commissioner @NYPDONeill talked to @RickLeventhal about the police force's intense preparatio… https://t.co/DehAmd3LT5",FoxNews,0.0772,0.08,0.0,0.92,2017-12-18 01:12:32
+@nytimes,Mon Dec 18 01:10:03 +0000 2017,"Your fish is probably bored. Here's how to keep it from falling into depression. https://t.co/7BxqJNP3E9
+
+This was… https://t.co/SP7HIe5H7z",nytimes,-0.7506,0.0,0.33,0.67,2017-12-18 01:10:03
+@nytimes,Mon Dec 18 01:10:03 +0000 2017,"Your fish is probably bored. Here's how to keep it from falling into depression. https://t.co/7BxqJNP3E9
+
+This was… https://t.co/SP7HIe5H7z",nytimes,-0.7506,0.0,0.33,0.67,2017-12-18 01:10:03
+@FoxNews,Mon Dec 18 01:09:16 +0000 2017,".@lauraingle on #ScottPeterson: ""None of it felt right. None of it felt like this was a man who's being truthful.""… https://t.co/0jFr5crcCU",FoxNews,0.3612,0.116,0.0,0.884,2017-12-18 01:09:16
+@FoxNews,Mon Dec 18 01:05:58 +0000 2017,"Gene Simmons of Kiss faces lawsuit over groping, misconduct allegations https://t.co/uzTn1AYRsG",FoxNews,0.2263,0.204,0.139,0.657,2017-12-18 01:05:58
+@FoxNews,Mon Dec 18 01:04:58 +0000 2017,RT @lauraingle: The special starts now https://t.co/ISTk6z6yri,FoxNews,0.4019,0.31,0.0,0.69,2017-12-18 01:04:58
+@CNN,Mon Dec 18 01:03:34 +0000 2017,The stars are out to honor every day people determined to change the world. #CNNHeroes starts now https://t.co/FelsphRDiy,CNN,0.6808,0.259,0.0,0.741,2017-12-18 01:03:34
+@CNN,Mon Dec 18 01:03:34 +0000 2017,The stars are out to honor every day people determined to change the world. #CNNHeroes starts now https://t.co/FelsphRDiy,CNN,0.6808,0.259,0.0,0.741,2017-12-18 01:03:34
+@FoxNews,Mon Dec 18 01:00:34 +0000 2017,"RT @lauraingle: Scott Peterson: 15 years later, a look back at a case that gripped a nation https://t.co/nTJRrmrUgB #FoxNews",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 01:00:34
+@FoxNews,Mon Dec 18 01:00:19 +0000 2017,.@RabbiEckstein: On #Hanukkah and #Christmas let's remember how the Bible brings Jews and Christians together https://t.co/27gVehGO4O,FoxNews,0.0,0.0,0.0,1.0,2017-12-18 01:00:19
+@CNN,Mon Dec 18 01:00:06 +0000 2017,"Half of voters want Democrats to control Congress, poll shows https://t.co/woNu2Lh2g6 https://t.co/V1cCGOFAXZ",CNN,0.0772,0.106,0.0,0.894,2017-12-18 01:00:06
+@CNN,Mon Dec 18 01:00:06 +0000 2017,"Half of voters want Democrats to control Congress, poll shows https://t.co/woNu2Lh2g6 https://t.co/V1cCGOFAXZ",CNN,0.0772,0.106,0.0,0.894,2017-12-18 01:00:06
+@FoxNews,Mon Dec 18 01:00:03 +0000 2017,"RIGHT NOW: Fox News looks back at the murder case that gripped the nation. Tune in to ""Interview With a Monster: Th… https://t.co/BpYhzgR8QF",FoxNews,-0.6908,0.0,0.183,0.817,2017-12-18 01:00:03
+@CBSNews,Mon Dec 18 00:58:58 +0000 2017,A @60Minutes/@WashingtonPost joint investigation into the DEA's response to the opioid epidemic again finds investi… https://t.co/1gc7cBUABs,CBSNews,0.0,0.0,0.0,1.0,2017-12-18 00:58:58
+@CBSNews,Mon Dec 18 00:58:58 +0000 2017,A @60Minutes/@WashingtonPost joint investigation into the DEA's response to the opioid epidemic again finds investi… https://t.co/1gc7cBUABs,CBSNews,0.0,0.0,0.0,1.0,2017-12-18 00:58:58
+@CNN,Mon Dec 18 00:54:22 +0000 2017,RT @CNNHeroes: CNN Heroes An All-Star Tribute kicks off LIVE at 8p ET on CNN with hosts @andersoncooper &amp; @KellyRipa #CNNHeroes https://t.c…,CNN,0.5106,0.136,0.0,0.864,2017-12-18 00:54:22
+@CNN,Mon Dec 18 00:54:22 +0000 2017,RT @CNNHeroes: CNN Heroes An All-Star Tribute kicks off LIVE at 8p ET on CNN with hosts @andersoncooper &amp; @KellyRipa #CNNHeroes https://t.c…,CNN,0.5106,0.136,0.0,0.864,2017-12-18 00:54:22
+@FoxNews,Mon Dec 18 00:54:02 +0000 2017,"OPINION: Ending net neutrality will save the internet, not destroy it https://t.co/5mbxdpCeA2",FoxNews,0.7227,0.377,0.0,0.623,2017-12-18 00:54:02
+@nytimes,Mon Dec 18 00:51:48 +0000 2017,Across the country many brides and grooms are forgoing tradition by appointing mixed-gender wedding parties https://t.co/i9SWqiQSIp,nytimes,0.4019,0.153,0.0,0.847,2017-12-18 00:51:48
+@nytimes,Mon Dec 18 00:51:48 +0000 2017,Across the country many brides and grooms are forgoing tradition by appointing mixed-gender wedding parties https://t.co/i9SWqiQSIp,nytimes,0.4019,0.153,0.0,0.847,2017-12-18 00:51:48
+@FoxNews,Mon Dec 18 00:50:10 +0000 2017,"Weinstein brothers stopped Mira Sorvino from being cast in 'Bad Santa,' director says https://t.co/H6pes6SF9Q",FoxNews,-0.6597,0.0,0.31,0.69,2017-12-18 00:50:10
+@FoxNews,Mon Dec 18 00:46:29 +0000 2017,Atlanta airport power expected to be restored by 12a ET; @Claire_FOX5 has the latest. #atlairport… https://t.co/0s6C0jxP9Z,FoxNews,0.34,0.138,0.0,0.862,2017-12-18 00:46:29
+@FoxNews,Mon Dec 18 00:45:16 +0000 2017,RT @EricShawnTV: Tonight @POTUS @realDonaldTrump said he is not considering firing #RobertMueller. The Congressional investigation moves Tu…,FoxNews,0.2584,0.113,0.0,0.887,2017-12-18 00:45:16
+@FoxNews,Mon Dec 18 00:44:05 +0000 2017,A sailor meets his child for the first time following the guided-missile cruiser USS Vella Gulf's (CG 72) return to… https://t.co/vpJSRZUzIS,FoxNews,0.0,0.0,0.0,1.0,2017-12-18 00:44:05
+@FoxNews,Mon Dec 18 00:41:41 +0000 2017,".@POTUS: “I did speak to Cindy McCain, and I wished her well, I wished John well. They’ve headed back, but I unders… https://t.co/8upzAkOYXx",FoxNews,0.2732,0.147,0.0,0.853,2017-12-18 00:41:41
+@FoxNews,Mon Dec 18 00:39:05 +0000 2017,"COMING UP: Fox News looks back at the murder case that gripped the nation. Tune in to ""Interview With a Monster: Th… https://t.co/k6C35JqcjP",FoxNews,-0.6908,0.0,0.183,0.817,2017-12-18 00:39:05
+@FoxNews,Mon Dec 18 00:37:14 +0000 2017,"Texas man admits to beheading wife in front of children, storing head in freezer https://t.co/Ur3kHCUAT4",FoxNews,0.296,0.136,0.0,0.864,2017-12-18 00:37:14
+@CBSNews,Mon Dec 18 00:33:05 +0000 2017,"Soyuz takes off for station, SpaceX cargo ship captured https://t.co/av3MovJVks https://t.co/AnISOWl3VN",CBSNews,0.0,0.0,0.0,1.0,2017-12-18 00:33:05
+@CBSNews,Mon Dec 18 00:33:05 +0000 2017,"Soyuz takes off for station, SpaceX cargo ship captured https://t.co/av3MovJVks https://t.co/AnISOWl3VN",CBSNews,0.0,0.0,0.0,1.0,2017-12-18 00:33:05
+@nytimes,Mon Dec 18 00:32:00 +0000 2017,Encounters: Anna Chlumsky of ‘Veep’ Sniffs Around Bleecker Street for Gifts https://t.co/tw7Cdl0gUN,nytimes,0.0,0.0,0.0,1.0,2017-12-18 00:32:00
+@nytimes,Mon Dec 18 00:32:00 +0000 2017,Encounters: Anna Chlumsky of ‘Veep’ Sniffs Around Bleecker Street for Gifts https://t.co/tw7Cdl0gUN,nytimes,0.0,0.0,0.0,1.0,2017-12-18 00:32:00
+@CNN,Mon Dec 18 00:30:15 +0000 2017,Travelers stranded on planes on the tarmac for hours. Darkness in the terminal. Passengers guiding their cautious s… https://t.co/JpjRjV5eP5,CNN,-0.34,0.0,0.167,0.833,2017-12-18 00:30:15
+@CNN,Mon Dec 18 00:30:15 +0000 2017,Travelers stranded on planes on the tarmac for hours. Darkness in the terminal. Passengers guiding their cautious s… https://t.co/JpjRjV5eP5,CNN,-0.34,0.0,0.167,0.833,2017-12-18 00:30:15
+@nytimes,Mon Dec 18 00:23:47 +0000 2017,"Doctors have found a new way to treat heart arrhythmias leading to sudden death, a leading killer in the U.S. https://t.co/4fE8f2wiJx",nytimes,-0.7579,0.1,0.305,0.595,2017-12-18 00:23:47
+@nytimes,Mon Dec 18 00:23:47 +0000 2017,"Doctors have found a new way to treat heart arrhythmias leading to sudden death, a leading killer in the U.S. https://t.co/4fE8f2wiJx",nytimes,-0.7579,0.1,0.305,0.595,2017-12-18 00:23:47
+@FoxNews,Mon Dec 18 00:19:43 +0000 2017,"""We've been working on this since January 2, 2017.""
+
+WATCH: @RickLeventhal talks #NYE2018 with NYPD Commissioner… https://t.co/C4bfVzAfJA",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 00:19:43
+@CBSNews,Mon Dec 18 00:18:08 +0000 2017,"Woman mauled to death by her dogs while on a walk, police say https://t.co/tnAlzWpWCN https://t.co/mvexJOe02B",CBSNews,-0.5994,0.0,0.231,0.769,2017-12-18 00:18:08
+@CBSNews,Mon Dec 18 00:18:08 +0000 2017,"Woman mauled to death by her dogs while on a walk, police say https://t.co/tnAlzWpWCN https://t.co/mvexJOe02B",CBSNews,-0.5994,0.0,0.231,0.769,2017-12-18 00:18:08
+@CBSNews,Mon Dec 18 00:15:01 +0000 2017,"A team of veterinarians, pilots and game capture specialists are trying a solution to help the critically endangere… https://t.co/QIXoVM8shL",CBSNews,0.6124,0.25,0.0,0.75,2017-12-18 00:15:01
+@CBSNews,Mon Dec 18 00:15:01 +0000 2017,"A team of veterinarians, pilots and game capture specialists are trying a solution to help the critically endangere… https://t.co/QIXoVM8shL",CBSNews,0.6124,0.25,0.0,0.75,2017-12-18 00:15:01
+@FoxNews,Mon Dec 18 00:12:53 +0000 2017,".@NYPDONeill on #NYE2018: ""There's going to be thousands of NYPD officers, not just in Times Square, but all around… https://t.co/O5CPS9fNm2",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 00:12:53
+@FoxNews,Mon Dec 18 00:10:42 +0000 2017,".@NYPDONeill: ""We don't miss much... [Monitoring threats] is something we do 24 hours a day, 7 days a week."" https://t.co/YqSa6TS3jK",FoxNews,0.1139,0.083,0.0,0.917,2017-12-18 00:10:42
+@FoxNews,Mon Dec 18 00:09:50 +0000 2017,".@NYPDONeill: ""We constantly monitor the threatstream."" https://t.co/SQgx3SGFKG",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 00:09:50
+@FoxNews,Mon Dec 18 00:09:50 +0000 2017,".@NYPDONeill: ""We constantly monitor the threatstream."" https://t.co/SQgx3SGFKG",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 00:09:50
+@FoxNews,Mon Dec 18 00:08:59 +0000 2017,".@NYPDONeill: ""We all have to pay attention in this city and in this nation to what's going on."" https://t.co/IFE6QBt69t",FoxNews,-0.1027,0.0,0.072,0.928,2017-12-18 00:08:59
+@nytimes,Mon Dec 18 00:07:33 +0000 2017,Op-Ed Contributor: Can the International Criminal Court Be Saved From Itself? https://t.co/h8bnGeESde,nytimes,-0.1531,0.173,0.21,0.617,2017-12-18 00:07:33
+@nytimes,Mon Dec 18 00:07:33 +0000 2017,Op-Ed Contributor: Can the International Criminal Court Be Saved From Itself? https://t.co/h8bnGeESde,nytimes,-0.1531,0.173,0.21,0.617,2017-12-18 00:07:33
+@FoxNews,Mon Dec 18 00:03:26 +0000 2017,"'Batman' Actor Christian Bale: Trump's America Is 'A Genuine Tragedy'
+https://t.co/SJkP7EtHEi",FoxNews,-0.6597,0.0,0.306,0.694,2017-12-18 00:03:26
+@CBSNews,Mon Dec 18 00:03:07 +0000 2017,GOP tax bill: How the new tax plan will affect you https://t.co/gBYL8bcSsN https://t.co/chd1QHXGdp,CBSNews,0.0,0.0,0.0,1.0,2017-12-18 00:03:07
+@CBSNews,Mon Dec 18 00:03:07 +0000 2017,GOP tax bill: How the new tax plan will affect you https://t.co/gBYL8bcSsN https://t.co/chd1QHXGdp,CBSNews,0.0,0.0,0.0,1.0,2017-12-18 00:03:07
+@CNN,Mon Dec 18 00:00:37 +0000 2017,The photos that shaped 2017 https://t.co/1bMbdVpGSQ https://t.co/4MUzj8M25X,CNN,0.0,0.0,0.0,1.0,2017-12-18 00:00:37
+@CNN,Mon Dec 18 00:00:37 +0000 2017,The photos that shaped 2017 https://t.co/1bMbdVpGSQ https://t.co/4MUzj8M25X,CNN,0.0,0.0,0.0,1.0,2017-12-18 00:00:37
+@CBSNews,Mon Dec 18 00:00:12 +0000 2017,"More than 300 passengers fall ill on Royal Caribbean cruise, company says https://t.co/MpQrAE5U96 https://t.co/fFTSCGB6ed",CBSNews,-0.4215,0.0,0.177,0.823,2017-12-18 00:00:12
+@CBSNews,Mon Dec 18 00:00:12 +0000 2017,"More than 300 passengers fall ill on Royal Caribbean cruise, company says https://t.co/MpQrAE5U96 https://t.co/fFTSCGB6ed",CBSNews,-0.4215,0.0,0.177,0.823,2017-12-18 00:00:12
+@FoxNews,Mon Dec 18 00:00:03 +0000 2017,"RIGHT NOW on ""Fox Report,"" @RickLeventhal talks to NYPD Commissioner @NYPDONeill - Tune in to Fox News Channel! https://t.co/1JjFzyHYzt",FoxNews,0.0,0.0,0.0,1.0,2017-12-18 00:00:03
+@nytimes,Sun Dec 17 23:58:12 +0000 2017,"Remind me: Who were the good guys and bad guys in the original ""Star Wars""? https://t.co/MiRThRtYBs https://t.co/wrpVZwAiwA",nytimes,0.1779,0.229,0.154,0.617,2017-12-17 23:58:12
+@nytimes,Sun Dec 17 23:58:12 +0000 2017,"Remind me: Who were the good guys and bad guys in the original ""Star Wars""? https://t.co/MiRThRtYBs https://t.co/wrpVZwAiwA",nytimes,0.1779,0.229,0.154,0.617,2017-12-17 23:58:12
+@FoxNews,Sun Dec 17 23:55:39 +0000 2017,".@SenJohnMcCain returning home to Arizona after treatment, @POTUS says
+https://t.co/j6QBIIa9nq",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:55:39
+@FoxNews,Sun Dec 17 23:55:02 +0000 2017,".@AlanDersh: ""Rod Rosenstein should recuse himself."" https://t.co/TSMxUMg6Jz https://t.co/ls0NX9v3Qp",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:55:02
+@CNN,Sun Dec 17 23:49:32 +0000 2017,"RT @ReliableSources: After Rupert Murdoch dismisses Fox scandals as ""all nonsense,"" former Fox News contributor @tamaraholder says the netw…",CNN,-0.4939,0.0,0.151,0.849,2017-12-17 23:49:32
+@CNN,Sun Dec 17 23:49:32 +0000 2017,"RT @ReliableSources: After Rupert Murdoch dismisses Fox scandals as ""all nonsense,"" former Fox News contributor @tamaraholder says the netw…",CNN,-0.4939,0.0,0.151,0.849,2017-12-17 23:49:32
+@FoxNews,Sun Dec 17 23:48:17 +0000 2017,"Putin thanks @POTUS by phone for info that thwarted terror attack, @WhiteHouse confirms https://t.co/GqVQdk3Fgd https://t.co/HT0VpD7GyV",FoxNews,-0.5719,0.135,0.353,0.512,2017-12-17 23:48:17
+@nytimes,Sun Dec 17 23:47:38 +0000 2017,The share of the world's income going to the top 1 percent has shrunk since the financial crisis. Here's why that m… https://t.co/EYZ9N7dcP9,nytimes,-0.2732,0.148,0.151,0.701,2017-12-17 23:47:38
+@nytimes,Sun Dec 17 23:47:38 +0000 2017,The share of the world's income going to the top 1 percent has shrunk since the financial crisis. Here's why that m… https://t.co/EYZ9N7dcP9,nytimes,-0.2732,0.148,0.151,0.701,2017-12-17 23:47:38
+@FoxNews,Sun Dec 17 23:47:23 +0000 2017,Blackout grounds all Atlanta airports flights. https://t.co/Och4XslbLi #atlairport https://t.co/pDI2XPUx90,FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:47:23
+@CNN,Sun Dec 17 23:45:51 +0000 2017,"""I was a healthy 33-year-old, and I'm not going to be a healthy 34-year-old."" Ady Barkan, who is battling ALS and c… https://t.co/LrshQliuSj",CNN,0.5106,0.212,0.082,0.706,2017-12-17 23:45:51
+@CNN,Sun Dec 17 23:45:51 +0000 2017,"""I was a healthy 33-year-old, and I'm not going to be a healthy 34-year-old."" Ady Barkan, who is battling ALS and c… https://t.co/LrshQliuSj",CNN,0.5106,0.212,0.082,0.706,2017-12-17 23:45:51
+@FoxNews,Sun Dec 17 23:45:01 +0000 2017,".@dbongino: ""If that was an email about @BarackObama in 2008, this country would've rightfully exploded.""… https://t.co/eY1GA0btCP",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:45:01
+@FoxNews,Sun Dec 17 23:42:42 +0000 2017,Do you agree with @DiamondandSilk? https://t.co/yKvmrc2epY https://t.co/1CIPsmuwMn,FoxNews,0.3612,0.294,0.0,0.706,2017-12-17 23:42:42
+@FoxNews,Sun Dec 17 23:36:18 +0000 2017,U.S. markets so far this year. https://t.co/nkOpnnZKu5,FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:36:18
+@FoxNews,Sun Dec 17 23:35:58 +0000 2017,"Tallying media's coverage of @POTUS - ABC, NBC, and CBS evening news coverage. https://t.co/IR1LWxj2bj",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:35:58
+@FoxNews,Sun Dec 17 23:35:31 +0000 2017,.@SenSchumer has made it clear that he vehemently opposes the GOP tax reform bill. https://t.co/OOVrsxYFtf https://t.co/Ga0jxSt0wJ,FoxNews,0.3818,0.148,0.0,0.852,2017-12-17 23:35:31
+@CBSNews,Sun Dec 17 23:35:01 +0000 2017,"Tonight, @ScottPelley reports the story of an American terrorist--his long journey to redemption--and his struggle… https://t.co/mhRO8kVdgg",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 23:35:01
+@CBSNews,Sun Dec 17 23:35:01 +0000 2017,"Tonight, @ScottPelley reports the story of an American terrorist--his long journey to redemption--and his struggle… https://t.co/mhRO8kVdgg",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 23:35:01
+@FoxNews,Sun Dec 17 23:34:59 +0000 2017,".@DiamondandSilk: ""Liberals are trying to destroy this country. They want us to live in a third-world country. We d… https://t.co/9d9UVYWTCA",FoxNews,-0.4939,0.06,0.161,0.78,2017-12-17 23:34:59
+@CNN,Sun Dec 17 23:33:46 +0000 2017,"He was shot and killed by Chicago police in 2014. But that’s just the beginning of this story.
+
+Watch… https://t.co/tubtoSQQwH",CNN,-0.6705,0.0,0.191,0.809,2017-12-17 23:33:46
+@CNN,Sun Dec 17 23:33:46 +0000 2017,"He was shot and killed by Chicago police in 2014. But that’s just the beginning of this story.
+
+Watch… https://t.co/tubtoSQQwH",CNN,-0.6705,0.0,0.191,0.809,2017-12-17 23:33:46
+@FoxNews,Sun Dec 17 23:32:47 +0000 2017,"Putin thanks Trump by phone for info that thwarted terror attack, WH confirms https://t.co/bbp0zUMv2Z",FoxNews,-0.5719,0.141,0.371,0.488,2017-12-17 23:32:47
+@FoxNews,Sun Dec 17 23:32:38 +0000 2017,".@GaryKaltbaum: ""The bottom line is most people will get some sort of tax cut."" https://t.co/WpRZDPvWZN",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:32:38
+@FoxNews,Sun Dec 17 23:32:07 +0000 2017,.@THEHermanCain: GOP Tax Plan Not '9-9-9' But Still 'Fine-Fine-Fine' https://t.co/Dp3xSkB0Vo https://t.co/aiFZCiE1bT,FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:32:07
+@FoxNews,Sun Dec 17 23:31:42 +0000 2017,.@POTUS has used his weekly address to once more call for big changes in U.S. immigration policy. https://t.co/415NqHmWNW,FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:31:42
+@nytimes,Sun Dec 17 23:30:04 +0000 2017,President Trump hopes to sign a tax bill that would deliver its largest benefits to corporations and the wealthiest… https://t.co/Pvujgi1RbK,nytimes,0.6597,0.241,0.0,0.759,2017-12-17 23:30:04
+@nytimes,Sun Dec 17 23:30:04 +0000 2017,President Trump hopes to sign a tax bill that would deliver its largest benefits to corporations and the wealthiest… https://t.co/Pvujgi1RbK,nytimes,0.6597,0.241,0.0,0.759,2017-12-17 23:30:04
+@FoxNews,Sun Dec 17 23:29:38 +0000 2017,".@JudgeJeanine: ""Members of the @FBI &amp; @TheJusticeDept—some of whom actually ended up on Bob Mueller's team to pros… https://t.co/3t52YFFUE8",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:29:38
+@FoxNews,Sun Dec 17 23:26:37 +0000 2017,"In an interview today, @BernieSanders called the GOP tax reform plan ""grossly unfair."" https://t.co/fMDkBrPbrS https://t.co/S9HFWWjPKk",FoxNews,-0.2263,0.0,0.119,0.881,2017-12-17 23:26:37
+@FoxNews,Sun Dec 17 23:26:37 +0000 2017,"In an interview today, @BernieSanders called the GOP tax reform plan ""grossly unfair."" https://t.co/fMDkBrPbrS https://t.co/S9HFWWjPKk",FoxNews,-0.2263,0.0,0.119,0.881,2017-12-17 23:26:37
+@FoxNews,Sun Dec 17 23:25:16 +0000 2017,"RT @FoxBusiness: .@SenJohnKennedy on Mueller team politics: ""It makes you wonder, are there others. And it concerns me."" https://t.co/Eygpw…",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:25:16
+@FoxNews,Sun Dec 17 23:25:12 +0000 2017,RT @FoxBusiness: GOP tax reform bill may help us build more restaurants: White Castle vice president https://t.co/mweYolaTkW,FoxNews,0.4019,0.144,0.0,0.856,2017-12-17 23:25:12
+@FoxNews,Sun Dec 17 23:25:07 +0000 2017,"RT @FoxBusiness: .@RepKristiNoem: ""Most of the folks who work at the @FBI do it honorably and I thank them for their service... If there is…",FoxNews,0.7096,0.211,0.0,0.789,2017-12-17 23:25:07
+@FoxNews,Sun Dec 17 23:25:03 +0000 2017,"RT @FoxBusiness: .@GovMikeHuckabee on White House press and @PressSec: ""Some of them are openly hostile to her, who clearly don't like her.…",FoxNews,-0.2523,0.102,0.178,0.719,2017-12-17 23:25:03
+@FoxNews,Sun Dec 17 23:24:55 +0000 2017,RT @FoxBusiness: Ford to move autonomous vehicle business to Detroit https://t.co/sQJrPMjTeh,FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:24:55
+@FoxNews,Sun Dec 17 23:24:24 +0000 2017,".@jessebwatters: ""It's like the @FBI had Michael Moore investigating the President of the United States."" https://t.co/pjRxrMCAjI",FoxNews,0.6486,0.275,0.0,0.725,2017-12-17 23:24:24
+@FoxNews,Sun Dec 17 23:20:32 +0000 2017,"TOMORROW on ""Tucker Carlson Tonight,"" @TuckerCarlson talks to @tavissmiley - Tune in at 8p ET on Fox News Channel. https://t.co/ZSYyHfrRao",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:20:32
+@FoxNews,Sun Dec 17 23:18:52 +0000 2017,Blackout grounds all Atlanta airports flights; @Claire_FOX5 has the latest. https://t.co/Och4XslbLi  #atlairport https://t.co/UJ9bSjeoT5,FoxNews,0.0,0.0,0.0,1.0,2017-12-17 23:18:52
+@FoxNews,Sun Dec 17 23:15:14 +0000 2017,Palestinian protesters set fire to pictures of Pence in Bethlehem https://t.co/nPcwJ2RJtW,FoxNews,-0.5106,0.0,0.323,0.677,2017-12-17 23:15:14
+@nytimes,Sun Dec 17 23:15:07 +0000 2017,"Female employees at the Peninsula Beverly Hills, Harvey Weinstein’s de facto headquarters, say the hotel deferred t… https://t.co/ws1tDOBgCf",nytimes,0.0,0.0,0.0,1.0,2017-12-17 23:15:07
+@nytimes,Sun Dec 17 23:15:07 +0000 2017,"Female employees at the Peninsula Beverly Hills, Harvey Weinstein’s de facto headquarters, say the hotel deferred t… https://t.co/ws1tDOBgCf",nytimes,0.0,0.0,0.0,1.0,2017-12-17 23:15:07
+@CNN,Sun Dec 17 23:15:06 +0000 2017,Here's what people are saying about the GOP tax bill https://t.co/gV0swFfgh4 https://t.co/1iUYpXXgyt,CNN,0.0,0.0,0.0,1.0,2017-12-17 23:15:06
+@CNN,Sun Dec 17 23:15:06 +0000 2017,Here's what people are saying about the GOP tax bill https://t.co/gV0swFfgh4 https://t.co/1iUYpXXgyt,CNN,0.0,0.0,0.0,1.0,2017-12-17 23:15:06
+@CBSNews,Sun Dec 17 23:10:01 +0000 2017,A ghoulish holiday tradition outside of Cincinnati will soon come to a close after an Ohio man said he won't put up… https://t.co/LXhc5XBAik,CBSNews,0.4019,0.119,0.0,0.881,2017-12-17 23:10:01
+@CBSNews,Sun Dec 17 23:10:01 +0000 2017,A ghoulish holiday tradition outside of Cincinnati will soon come to a close after an Ohio man said he won't put up… https://t.co/LXhc5XBAik,CBSNews,0.4019,0.119,0.0,0.881,2017-12-17 23:10:01
+@FoxNews,Sun Dec 17 23:07:17 +0000 2017,"On @foxandfriends, @CortesSteve criticized Democratic resistance to the GOP tax plan. https://t.co/fMDkBrPbrS https://t.co/8cM4m7YyNP",FoxNews,-0.3612,0.0,0.172,0.828,2017-12-17 23:07:17
+@CNN,Sun Dec 17 23:00:29 +0000 2017,"Missing Korean War soldier given proper burial, 66 years later https://t.co/6rpPGA1ZBn https://t.co/LgxvsQwgii",CNN,-0.7269,0.0,0.379,0.621,2017-12-17 23:00:29
+@CNN,Sun Dec 17 23:00:29 +0000 2017,"Missing Korean War soldier given proper burial, 66 years later https://t.co/6rpPGA1ZBn https://t.co/LgxvsQwgii",CNN,-0.7269,0.0,0.379,0.621,2017-12-17 23:00:29
+@FoxNews,Sun Dec 17 23:00:22 +0000 2017,"Suicide bombers attack Pakistan church, killing at least 9, officials say https://t.co/qZUh0PiKuZ",FoxNews,-0.9186,0.0,0.571,0.429,2017-12-17 23:00:22
+@nytimes,Sun Dec 17 23:00:13 +0000 2017,"Minnie Driver, who once dated Matt Damon, said: “I honestly think that until we get on the same page, you can’t tel… https://t.co/vaDos1EtCv",nytimes,0.4588,0.12,0.0,0.88,2017-12-17 23:00:13
+@nytimes,Sun Dec 17 23:00:13 +0000 2017,"Minnie Driver, who once dated Matt Damon, said: “I honestly think that until we get on the same page, you can’t tel… https://t.co/vaDos1EtCv",nytimes,0.4588,0.12,0.0,0.88,2017-12-17 23:00:13
+@CBSNews,Sun Dec 17 22:55:01 +0000 2017,"Tonight, a new front of @60Minutes’ joint investigation with @washingtonpost into Congress’ interference with the D… https://t.co/4lYjvFYUUC",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 22:55:01
+@CBSNews,Sun Dec 17 22:55:01 +0000 2017,"Tonight, a new front of @60Minutes’ joint investigation with @washingtonpost into Congress’ interference with the D… https://t.co/4lYjvFYUUC",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 22:55:01
+@FoxNews,Sun Dec 17 22:53:13 +0000 2017,"Rose McGowan slams Meryl Streep, others ahead of Golden Globes protest
+https://t.co/Kxgw71UAa2",FoxNews,-0.25,0.0,0.154,0.846,2017-12-17 22:53:13
+@FoxNews,Sun Dec 17 22:50:35 +0000 2017,NBC silent on whether MSNBC's Chris Matthews could face other sexual harassment accusations https://t.co/bTIQgAgcbo,FoxNews,-0.7003,0.0,0.326,0.674,2017-12-17 22:50:35
+@CNN,Sun Dec 17 22:46:53 +0000 2017,Two paintings by Renaissance artist Raphael have been discovered at the Vatican — after being hidden for 500 years… https://t.co/or7SPrDujj,CNN,0.0,0.0,0.0,1.0,2017-12-17 22:46:53
+@CNN,Sun Dec 17 22:46:53 +0000 2017,Two paintings by Renaissance artist Raphael have been discovered at the Vatican — after being hidden for 500 years… https://t.co/or7SPrDujj,CNN,0.0,0.0,0.0,1.0,2017-12-17 22:46:53
+@CBSNews,Sun Dec 17 22:45:31 +0000 2017,Thousands of passengers were stranded and flights were grounded or delayed as a power outage crippled Atlanta's Har… https://t.co/LKCiG9Yjy4,CBSNews,-0.2263,0.0,0.101,0.899,2017-12-17 22:45:31
+@CBSNews,Sun Dec 17 22:45:31 +0000 2017,Thousands of passengers were stranded and flights were grounded or delayed as a power outage crippled Atlanta's Har… https://t.co/LKCiG9Yjy4,CBSNews,-0.2263,0.0,0.101,0.899,2017-12-17 22:45:31
+@nytimes,Sun Dec 17 22:45:08 +0000 2017,Want to know how the tax bill will affect you? Answer these questions to find out. https://t.co/f231VKXqq2,nytimes,0.0772,0.075,0.0,0.925,2017-12-17 22:45:08
+@nytimes,Sun Dec 17 22:45:08 +0000 2017,Want to know how the tax bill will affect you? Answer these questions to find out. https://t.co/f231VKXqq2,nytimes,0.0772,0.075,0.0,0.925,2017-12-17 22:45:08
+@FoxNews,Sun Dec 17 22:39:01 +0000 2017,"TONIGHT: Fox News looks back at the murder case that gripped the nation. Tune in to ""Interview With a Monster: The… https://t.co/YPFCs5n6me",FoxNews,-0.6908,0.0,0.19,0.81,2017-12-17 22:39:01
+@CBSNews,Sun Dec 17 22:35:29 +0000 2017,President Trump said Sunday he is not considering firing Special Counsel Robert Mueller in the wake of calls from s… https://t.co/LejoONKxWA,CBSNews,-0.0572,0.087,0.097,0.816,2017-12-17 22:35:29
+@CBSNews,Sun Dec 17 22:35:29 +0000 2017,President Trump said Sunday he is not considering firing Special Counsel Robert Mueller in the wake of calls from s… https://t.co/LejoONKxWA,CBSNews,-0.0572,0.087,0.097,0.816,2017-12-17 22:35:29
+@FoxNews,Sun Dec 17 22:34:25 +0000 2017,"On Twitter, former Attorney General @EricHolder called the firing of Special Counsel Robert Mueller an ""absolute re… https://t.co/k0ba0qr5nB",FoxNews,0.0772,0.128,0.114,0.758,2017-12-17 22:34:25
+@FoxNews,Sun Dec 17 22:33:00 +0000 2017,"Texas man admits to beheading wife in front of children, storing head in freezer https://t.co/Ur3kHCUAT4",FoxNews,0.296,0.136,0.0,0.864,2017-12-17 22:33:00
+@FoxNews,Sun Dec 17 22:31:25 +0000 2017,"Power outage at Atlanta airport causes 'pandemonium,' grounds flights https://t.co/Och4XslbLi https://t.co/VX5lnpZMFQ",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 22:31:25
+@CNN,Sun Dec 17 22:30:12 +0000 2017,Philippines' President Duterte says he'll protect the rights of the LGBT community during his presidency… https://t.co/zKorSpq74T,CNN,0.3818,0.148,0.0,0.852,2017-12-17 22:30:12
+@CNN,Sun Dec 17 22:30:12 +0000 2017,Philippines' President Duterte says he'll protect the rights of the LGBT community during his presidency… https://t.co/zKorSpq74T,CNN,0.3818,0.148,0.0,0.852,2017-12-17 22:30:12
+@nytimes,Sun Dec 17 22:30:10 +0000 2017,The Carolina Panthers’ owner has been accused of what the team is calling “workplace misconduct” https://t.co/4NkjmHM9M3,nytimes,-0.296,0.0,0.128,0.872,2017-12-17 22:30:10
+@nytimes,Sun Dec 17 22:30:10 +0000 2017,The Carolina Panthers’ owner has been accused of what the team is calling “workplace misconduct” https://t.co/4NkjmHM9M3,nytimes,-0.296,0.0,0.128,0.872,2017-12-17 22:30:10
+@FoxNews,Sun Dec 17 22:28:00 +0000 2017,"Millionaire heir found guilty of murdering ex-girlfriend, burning her body in an incinerator called 'the eliminator… https://t.co/tULYZm4tcL",FoxNews,-0.7964,0.0,0.321,0.679,2017-12-17 22:28:00
+@CBSNews,Sun Dec 17 22:25:01 +0000 2017,"'This the season for Christmas decorations and ornaments, and @CBSSunday checks out how the White House is celebrat… https://t.co/YLkTQRhrnd",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 22:25:01
+@CBSNews,Sun Dec 17 22:25:01 +0000 2017,"'This the season for Christmas decorations and ornaments, and @CBSSunday checks out how the White House is celebrat… https://t.co/YLkTQRhrnd",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 22:25:01
+@FoxNews,Sun Dec 17 22:24:14 +0000 2017,".@RepTimRyan: ""We need that trillion dollar infrastructure bill that the president promised."" https://t.co/Ml9MjTAJnF",FoxNews,0.0,0.0,0.0,1.0,2017-12-17 22:24:14
+@CNN,Sun Dec 17 22:20:11 +0000 2017,JUST IN: President Trump says he is not considering firing special counsel Robert Mueller https://t.co/5PuWU0Npi8,CNN,-0.0572,0.118,0.131,0.752,2017-12-17 22:20:11
+@CNN,Sun Dec 17 22:20:11 +0000 2017,JUST IN: President Trump says he is not considering firing special counsel Robert Mueller https://t.co/5PuWU0Npi8,CNN,-0.0572,0.118,0.131,0.752,2017-12-17 22:20:11
+@BBCNews,Sun Dec 17 22:18:02 +0000 2017,The Apprentice: Lord Sugar surprises viewers with result of final https://t.co/CYCzifRoip,BBCNews,0.2263,0.16,0.0,0.84,2017-12-17 22:18:02
+@BBCNews,Sun Dec 17 22:18:02 +0000 2017,The Apprentice: Lord Sugar surprises viewers with result of final https://t.co/CYCzifRoip,BBCNews,0.2263,0.16,0.0,0.84,2017-12-17 22:18:02
+@CBSNews,Sun Dec 17 22:17:28 +0000 2017,"@CBSNews ""John will come back if we need his vote. He's going through a very tough time,"" Pres. Trump on Senator Mc… https://t.co/4wmirJRmux",CBSNews,-0.2006,0.0,0.079,0.921,2017-12-17 22:17:28
+@CBSNews,Sun Dec 17 22:17:28 +0000 2017,"@CBSNews ""John will come back if we need his vote. He's going through a very tough time,"" Pres. Trump on Senator Mc… https://t.co/4wmirJRmux",CBSNews,-0.2006,0.0,0.079,0.921,2017-12-17 22:17:28
+@nytimes,Sun Dec 17 22:15:19 +0000 2017,"Safety, sexism and shifting tastes are shaping the women's shoe market https://t.co/yeK1XVD2F1 https://t.co/SrDhshhDeL",nytimes,0.4215,0.189,0.0,0.811,2017-12-17 22:15:19
+@nytimes,Sun Dec 17 22:15:19 +0000 2017,"Safety, sexism and shifting tastes are shaping the women's shoe market https://t.co/yeK1XVD2F1 https://t.co/SrDhshhDeL",nytimes,0.4215,0.189,0.0,0.811,2017-12-17 22:15:19
+@nytimes,Sun Dec 17 22:15:19 +0000 2017,"Safety, sexism and shifting tastes are shaping the women's shoe market https://t.co/yeK1XVD2F1 https://t.co/SrDhshhDeL",nytimes,0.4215,0.189,0.0,0.811,2017-12-17 22:15:19
+@CNN,Sun Dec 17 22:15:06 +0000 2017,Mexican journalist in US detention says his life is in danger if he's deported https://t.co/uCLfmpUBTE https://t.co/xwwx6YAwaS,CNN,-0.7096,0.0,0.296,0.704,2017-12-17 22:15:06
+@CNN,Sun Dec 17 22:15:06 +0000 2017,Mexican journalist in US detention says his life is in danger if he's deported https://t.co/uCLfmpUBTE https://t.co/xwwx6YAwaS,CNN,-0.7096,0.0,0.296,0.704,2017-12-17 22:15:06
+@CBSNews,Sun Dec 17 22:15:01 +0000 2017,"@CBSNews Pres. Trump says he ""will not"" fire Robert Muller https://t.co/eoK12i0kO7",CBSNews,0.2584,0.169,0.0,0.831,2017-12-17 22:15:01
+@CBSNews,Sun Dec 17 22:15:01 +0000 2017,"@CBSNews Pres. Trump says he ""will not"" fire Robert Muller https://t.co/eoK12i0kO7",CBSNews,0.2584,0.169,0.0,0.831,2017-12-17 22:15:01
+@CBSNews,Sun Dec 17 22:05:29 +0000 2017,MOMENTS AGO: Pres. Trump responds to reports that Special Counsel Robert Muller obtained Trump transition team emai… https://t.co/eGkAk5hF2n,CBSNews,0.4019,0.137,0.0,0.863,2017-12-17 22:05:29
+@CBSNews,Sun Dec 17 22:05:29 +0000 2017,MOMENTS AGO: Pres. Trump responds to reports that Special Counsel Robert Muller obtained Trump transition team emai… https://t.co/eGkAk5hF2n,CBSNews,0.4019,0.137,0.0,0.863,2017-12-17 22:05:29
+@CBSNews,Sun Dec 17 22:05:01 +0000 2017,The door is closing on the era that protected powerful men in Washington - and based on the number of women running… https://t.co/56NtBQhBXS,CBSNews,0.7184,0.269,0.0,0.731,2017-12-17 22:05:01
+@CNN,Sun Dec 17 22:00:24 +0000 2017,Australian police have arrested a man they say acted as a North Korean economic agent https://t.co/Lh6C1F7pcL https://t.co/FbJA4kVUXp,CNN,-0.4767,0.0,0.181,0.819,2017-12-17 22:00:24
+@CNN,Sun Dec 17 22:00:24 +0000 2017,Australian police have arrested a man they say acted as a North Korean economic agent https://t.co/Lh6C1F7pcL https://t.co/FbJA4kVUXp,CNN,-0.4767,0.0,0.181,0.819,2017-12-17 22:00:24
+@nytimes,Sun Dec 17 22:00:22 +0000 2017,"Walk through Cook County Jail in Chicago, which is being described as a model facility after a reform effort… https://t.co/5PGWS8ZNVE",nytimes,0.0,0.0,0.0,1.0,2017-12-17 22:00:22
+@CBSNews,Sun Dec 17 21:53:28 +0000 2017,"After spending several days in the hospital, Sen. John McCain is returning to Arizona, and will miss the vote on th… https://t.co/tSadSv4CIE",CBSNews,-0.1531,0.0,0.071,0.929,2017-12-17 21:53:28
+@CNN,Sun Dec 17 21:47:56 +0000 2017,"Former Fox News contributor says network founder Rupert Murdoch ""ruined my life"" https://t.co/lvw742daBX",CNN,-0.4767,0.0,0.205,0.795,2017-12-17 21:47:56
+@CNN,Sun Dec 17 21:47:56 +0000 2017,"Former Fox News contributor says network founder Rupert Murdoch ""ruined my life"" https://t.co/lvw742daBX",CNN,-0.4767,0.0,0.205,0.795,2017-12-17 21:47:56
+@nytimes,Sun Dec 17 21:45:06 +0000 2017,These devotees — they call themselves “Potheads” — use their Instant Pots for virtually every kitchen task imaginab… https://t.co/DJhLnQ6QuZ,nytimes,0.128,0.086,0.0,0.914,2017-12-17 21:45:06
+@BBCNews,Sun Dec 17 21:32:20 +0000 2017,"BBC Sports Personality of the Year 2017: World 10,000m champion Mo Farah wins https://t.co/sfNt6XmHmu",BBCNews,0.8225,0.388,0.0,0.612,2017-12-17 21:32:20
+@BBCNews,Sun Dec 17 21:32:20 +0000 2017,"BBC Sports Personality of the Year 2017: World 10,000m champion Mo Farah wins https://t.co/sfNt6XmHmu",BBCNews,0.8225,0.388,0.0,0.612,2017-12-17 21:32:20
+@nytimes,Sun Dec 17 21:30:09 +0000 2017,"Researchers believe that Instagram, which has 800 million monthly users, is spreading disinformation and propaganda https://t.co/9vhs3oyU4J",nytimes,-0.25,0.0,0.118,0.882,2017-12-17 21:30:09
+@CNN,Sun Dec 17 21:30:04 +0000 2017,Republican Sen. John McCain is returning to Arizona to continue recovering from chemotherapy and will miss the tax… https://t.co/elcnOKY9v5,CNN,-0.1531,0.0,0.082,0.918,2017-12-17 21:30:04
+@CBSNews,Sun Dec 17 21:25:01 +0000 2017,Texas restaurant slammed for sign with blackface caricature https://t.co/ZWfV52XZAA https://t.co/MBhyuyTG02,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 21:25:01
+@nytimes,Sun Dec 17 21:15:07 +0000 2017,"Zendaya on her nearly 46 million Instagram followers: “I have millions of people who look to me for guidance, and I… https://t.co/4k4xRBnUwi",nytimes,0.0,0.0,0.0,1.0,2017-12-17 21:15:07
+@CNN,Sun Dec 17 21:15:06 +0000 2017,Russian President Vladimir Putin thanks President Trump for the CIA's help in stopping terror attacks… https://t.co/wYSRPUiYQR,CNN,0.1531,0.248,0.221,0.531,2017-12-17 21:15:06
+@BBCNews,Sun Dec 17 21:06:29 +0000 2017,"RT @BBCSport: He won his third consecutive 10,000m gold at the World Championships and silver in the 5,000m.
+
+Mo Farah has been named BBC S…",BBCNews,0.7845,0.231,0.0,0.769,2017-12-17 21:06:29
+@BBCNews,Sun Dec 17 21:06:29 +0000 2017,"RT @BBCSport: He won his third consecutive 10,000m gold at the World Championships and silver in the 5,000m.
+
+Mo Farah has been named BBC S…",BBCNews,0.7845,0.231,0.0,0.769,2017-12-17 21:06:29
+@CBSNews,Sun Dec 17 21:05:02 +0000 2017,"A power outage grounded flights Sunday at Atlanta's Hartsfield-Jackson Airport, leaving thousands of passengers sit… https://t.co/WGdZwm7aSG",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 21:05:02
+@nytimes,Sun Dec 17 21:02:42 +0000 2017,RT @UpshotNYT: Here's a way to figure out what will happen with your taxes. https://t.co/8NGez1m2x0 https://t.co/NIWVX2hBpF,nytimes,0.0,0.0,0.0,1.0,2017-12-17 21:02:42
+@nytimes,Sun Dec 17 21:00:11 +0000 2017,Netflix and Spotify have turned their users’ habits into marketing campaigns to the delight of some. But not everyo… https://t.co/gAv0bj5nmU,nytimes,0.5994,0.17,0.0,0.83,2017-12-17 21:00:11
+@CNN,Sun Dec 17 21:00:11 +0000 2017,"President Trump and his allies are trying to destroy special counsel Robert Mueller, writes Julian Zelizer for… https://t.co/uJulQ9sRNb",CNN,-0.2023,0.122,0.158,0.721,2017-12-17 21:00:11
+@CNN,Sun Dec 17 20:45:05 +0000 2017,Take a look at the week in politics https://t.co/5QQjAolOrg https://t.co/MqDrNXQsYW,CNN,0.0,0.0,0.0,1.0,2017-12-17 20:45:05
+@nytimes,Sun Dec 17 20:45:05 +0000 2017,Kit Harington stars in HBO’s “Gunpowder” as an ancestor who plotted to kill an actual king https://t.co/bj7b2P84Pq,nytimes,-0.6908,0.0,0.227,0.773,2017-12-17 20:45:05
+@CBSNews,Sun Dec 17 20:45:01 +0000 2017,"""Star Wars: The Last Jedi"" opens with $220 million, landing the second-best opening of all time… https://t.co/hZ1UiFRLS7",CBSNews,-0.5574,0.0,0.184,0.816,2017-12-17 20:45:01
+@nytimes,Sun Dec 17 20:30:09 +0000 2017,"Opinion: ""An emerging religious worldview — “Fox evangelicalism” — is preached from the pulpits of conservative med… https://t.co/Csnahh7cNk",nytimes,0.0,0.0,0.0,1.0,2017-12-17 20:30:09
+@CNN,Sun Dec 17 20:30:03 +0000 2017,Power outage cripples Atlanta's Hartsfield-Jackson airport https://t.co/Mu2V4Ef0VC https://t.co/11IS2CxwPw,CNN,0.0,0.0,0.0,1.0,2017-12-17 20:30:03
+@BBCNews,Sun Dec 17 20:29:22 +0000 2017,Yawning cat photo wins Branscombe boy national award https://t.co/GZ5Nhtww4W,BBCNews,0.802,0.507,0.0,0.493,2017-12-17 20:29:22
+@BBCNews,Sun Dec 17 20:29:22 +0000 2017,Yawning cat photo wins Branscombe boy national award https://t.co/GZ5Nhtww4W,BBCNews,0.802,0.507,0.0,0.493,2017-12-17 20:29:22
+@CBSNews,Sun Dec 17 20:25:01 +0000 2017,"Two suicide bombers struck a church in Pakistan on Sunday, killing nine people and wounding more than 50 others, au… https://t.co/imtKVditYb",CBSNews,-0.8979,0.0,0.391,0.609,2017-12-17 20:25:01
+@nytimes,Sun Dec 17 20:22:06 +0000 2017,"A power outage at the Atlanta airport, the world's busiest, stranded passengers and left them in the dark https://t.co/LHqCLLCVKQ",nytimes,0.0,0.0,0.0,1.0,2017-12-17 20:22:06
+@CNN,Sun Dec 17 20:15:08 +0000 2017,Environmental Protection Agency cuts could risk a public health emergency https://t.co/jXfk42LrP8 https://t.co/wLPi6wEudY,CNN,-0.7096,0.0,0.463,0.537,2017-12-17 20:15:08
+@nytimes,Sun Dec 17 20:15:07 +0000 2017,Here are some great stories you may have missed in the rush of the week https://t.co/hVGr3too4s,nytimes,0.4404,0.202,0.108,0.69,2017-12-17 20:15:07
+@CBSNews,Sun Dec 17 20:09:14 +0000 2017,"@CBSNews ""Many concourses in the airport have lost power. The airport does have some backup generators that allow f… https://t.co/R6HKsLOg2r",CBSNews,-0.1027,0.086,0.104,0.811,2017-12-17 20:09:14
+@BBCNews,Sun Dec 17 20:08:40 +0000 2017,Birmingham crash: First victim named as Imtiaz Mohammed https://t.co/lzT2HKsOTJ,BBCNews,-0.5859,0.0,0.407,0.593,2017-12-17 20:08:40
+@BBCNews,Sun Dec 17 20:08:40 +0000 2017,Birmingham crash: First victim named as Imtiaz Mohammed https://t.co/lzT2HKsOTJ,BBCNews,-0.5859,0.0,0.407,0.593,2017-12-17 20:08:40
+@nytimes,Sun Dec 17 20:07:03 +0000 2017,President Putin called President Trump to thank him for the work of the CIA in helping prevent an Islamic State att… https://t.co/de1svwADJb,nytimes,0.5859,0.234,0.0,0.766,2017-12-17 20:07:03
+@CBSNews,Sun Dec 17 20:05:01 +0000 2017,Sen. John McCain returns to Arizona on Sunday after spending several days in a Maryland hospital. He will miss the… https://t.co/RgZUewCYaU,CBSNews,-0.1531,0.0,0.078,0.922,2017-12-17 20:05:01
+@CNN,Sun Dec 17 20:00:25 +0000 2017,Hundreds have come down with a stomach illness during a Royal Caribbean cruise https://t.co/2QrExbXepY https://t.co/oX168QMPhz,CNN,-0.4019,0.0,0.184,0.816,2017-12-17 20:00:25
+@nytimes,Sun Dec 17 20:00:10 +0000 2017,"""The Last Jedi"" made the jump to box office hyperspace with the second-biggest opening of all time https://t.co/vNPzfJBDVg",nytimes,0.0,0.0,0.0,1.0,2017-12-17 20:00:10
+@CBSNews,Sun Dec 17 19:49:06 +0000 2017,DEVELOPING: Power outage is impacting several areas at @ATLAirport. The FAA has set a ground stop for flights into… https://t.co/rc2s7icjdg,CBSNews,-0.296,0.0,0.109,0.891,2017-12-17 19:49:06
+@CNN,Sun Dec 17 19:45:07 +0000 2017,This is how Australia's prime minister went swimming 50 years ago and vanished forever https://t.co/1jTVZN7pxR https://t.co/fJ0XzIv9fp,CNN,0.0,0.0,0.0,1.0,2017-12-17 19:45:07
+@nytimes,Sun Dec 17 19:45:04 +0000 2017,Europe has many regions with movements that are pushing for more autonomy https://t.co/10LsTQe2Yo,nytimes,0.0,0.0,0.0,1.0,2017-12-17 19:45:04
+@CBSNews,Sun Dec 17 19:40:01 +0000 2017,22-year-old woman found dead in Virginia was mauled to death by her dogs https://t.co/UIuMWoQVBO https://t.co/V2PYkF7BuL,CBSNews,-0.8481,0.0,0.387,0.613,2017-12-17 19:40:01
+@BBCNews,Sun Dec 17 19:39:43 +0000 2017,He will never be forgotten. Bradley Lowery has been named the winner of the Helen Rollason Award at #SPOTY https://t.co/0IGEHh6wcB,BBCNews,0.7324,0.323,0.101,0.576,2017-12-17 19:39:43
+@BBCNews,Sun Dec 17 19:39:43 +0000 2017,He will never be forgotten. Bradley Lowery has been named the winner of the Helen Rollason Award at #SPOTY https://t.co/0IGEHh6wcB,BBCNews,0.7324,0.323,0.101,0.576,2017-12-17 19:39:43
+@CNN,Sun Dec 17 19:30:21 +0000 2017,Lawyers representing the Trump presidential transition have accused special counsel Robert Mueller of 'unlawfully'… https://t.co/3LLmBKgfgT,CNN,0.128,0.151,0.123,0.726,2017-12-17 19:30:21
+@nytimes,Sun Dec 17 19:30:15 +0000 2017,"Families fear a dengue vaccine has turned their children into time bombs, in whom the virus could set off a life-th… https://t.co/LDPYQq6lqf",nytimes,-0.4939,0.0,0.144,0.856,2017-12-17 19:30:15
+@CBSNews,Sun Dec 17 19:21:39 +0000 2017,"The GOP claims the new tax bill will mean a $2,059 tax cut for a family of four earning the median family income of… https://t.co/BPrkWKOJDT",CBSNews,-0.2732,0.0,0.087,0.913,2017-12-17 19:21:39
+@CNN,Sun Dec 17 19:15:08 +0000 2017,"Ohio Gov. John Kasich, a Republican, says the GOP is ""losing the future"" by ""turning off millennials""… https://t.co/7WFkeq2pS1",CNN,-0.3818,0.0,0.14,0.86,2017-12-17 19:15:08
+@nytimes,Sun Dec 17 19:15:05 +0000 2017,"“Republicans who voted Democratic, now they’ve discovered they can do it, and the world didn’t come to an end” https://t.co/9rQwUhysGN",nytimes,0.0,0.0,0.0,1.0,2017-12-17 19:15:05
+@CBSNews,Sun Dec 17 19:00:31 +0000 2017,Two young girls started an adorable airport dance-off with an employee who spotted them from the tarmac below. https://t.co/l7JPa4lH41,CBSNews,0.4939,0.151,0.0,0.849,2017-12-17 19:00:31
+@CNN,Sun Dec 17 19:00:19 +0000 2017,The Pentagon has researched the possible existence of UFOs in a once completely classified project that began becau… https://t.co/ZXFJpotwiH,CNN,0.0,0.0,0.0,1.0,2017-12-17 19:00:19
+@nytimes,Sun Dec 17 19:00:14 +0000 2017,The planned closing sent shock waves through the theater’s community of devotees https://t.co/IVJXMhpTTF,nytimes,-0.2732,0.099,0.172,0.728,2017-12-17 19:00:14
+@CNN,Sun Dec 17 18:45:04 +0000 2017,"Southern Californnia resident says her neighborhood looks like ""a war zone"" because of the Thomas Fire, the third-l… https://t.co/EIpQQfBL10",CNN,-0.5859,0.101,0.254,0.645,2017-12-17 18:45:04
+@nytimes,Sun Dec 17 18:45:02 +0000 2017,"Decimated by addiction, its heritage at risk, the Cherokee Nation is trying
+to sue pharmacies and distributors https://t.co/IyEwxsMIkK",nytimes,-0.2732,0.0,0.11,0.89,2017-12-17 18:45:02
+@CBSNews,Sun Dec 17 18:44:27 +0000 2017,.@johndickerson: In all the swirl of news this week it might have gone unnoticed that with the naming of Tina Smith… https://t.co/tA31cGhdvk,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 18:44:27
+@nytimes,Sun Dec 17 18:30:16 +0000 2017,"Health officials tried to downplay reports that the CDC has been barred from using words like ""fetus"" or ""transgend… https://t.co/uouA11jisf",nytimes,0.3612,0.116,0.0,0.884,2017-12-17 18:30:16
+@CNN,Sun Dec 17 18:30:05 +0000 2017,"Don't blink — or you'll miss another market milestone. The Dow could top 25,000 any day now. https://t.co/IirtH9usNz https://t.co/wW2YlZTLOz",CNN,0.0516,0.093,0.082,0.825,2017-12-17 18:30:05
+@CBSNews,Sun Dec 17 18:20:01 +0000 2017,"Sen. Bernie Sanders tells CBS News' @FaceTheNation that the tax plan is ""grossly unfair"" to middle class families… https://t.co/0NHv4zqZ5H",CBSNews,-0.6124,0.0,0.227,0.773,2017-12-17 18:20:01
+@CNN,Sun Dec 17 18:15:13 +0000 2017,A landslide in Chile has left 5 dead and 15 missing https://t.co/kuiebZHCJa https://t.co/MGvDcegxkM,CNN,-0.7579,0.0,0.419,0.581,2017-12-17 18:15:13
+@nytimes,Sun Dec 17 18:15:08 +0000 2017,"All told, 13 million fewer Americans are projected to have health coverage https://t.co/5G7boaf76K",nytimes,0.0,0.0,0.0,1.0,2017-12-17 18:15:08
+@nytimes,Sun Dec 17 18:11:03 +0000 2017,"RT @peterbakernyt: Trump and Putin spoke by phone again, the second time in the last few days. White House says it will provide a readout s…",nytimes,0.0,0.0,0.0,1.0,2017-12-17 18:11:03
+@BBCNews,Sun Dec 17 18:00:47 +0000 2017,"RT @BBCSport: Just 45 minutes until we go live from Liverpool for #SPOTY 2017.
+
+A night to look back and celebrate all the great sport that…",BBCNews,0.8316,0.253,0.0,0.747,2017-12-17 18:00:47
+@BBCNews,Sun Dec 17 18:00:47 +0000 2017,"RT @BBCSport: Just 45 minutes until we go live from Liverpool for #SPOTY 2017.
+
+A night to look back and celebrate all the great sport that…",BBCNews,0.8316,0.253,0.0,0.747,2017-12-17 18:00:47
+@CNN,Sun Dec 17 18:00:22 +0000 2017,"""Star Wars: The Last Jedi"" had a monster box office opening https://t.co/cMVRZpYUa0 https://t.co/WmlhY3x0WA",CNN,-0.5574,0.0,0.247,0.753,2017-12-17 18:00:22
+@nytimes,Sun Dec 17 18:00:15 +0000 2017,"Opinion: In the face of hate crimes and anti-LGBTQ laws, travelers are often the most vulnerable https://t.co/pdvj6Jn7Th",nytimes,-0.7089,0.0,0.282,0.718,2017-12-17 18:00:15
+@CBSNews,Sun Dec 17 18:00:02 +0000 2017,Kremlin says President Vladimir Putin reportedly thanked President Trump for a CIA tip that helped thwart a series… https://t.co/SPFvLHA9J0,CBSNews,0.4404,0.153,0.0,0.847,2017-12-17 18:00:02
+@nytimes,Sun Dec 17 17:45:05 +0000 2017,"President Trump's lawyer accused the special counsel of improperly obtaining transition emails, a charge Robert Mue… https://t.co/RsOU65qrgX",nytimes,0.128,0.143,0.116,0.741,2017-12-17 17:45:05
+@CNN,Sun Dec 17 17:45:04 +0000 2017,"Here's what's in the tax bill for homeowners:
+? Downsized mortgage interest deduction
+? Less reason to itemize
+? Li… https://t.co/M66IVaJMkP",CNN,0.4588,0.15,0.0,0.85,2017-12-17 17:45:04
+@BBCNews,Sun Dec 17 17:40:21 +0000 2017,"RT @BBCSport: We're LIVE NOW with @TomDaley1994 and @YasminEvans from the red carpet at #SPOTY!
+
+?
+
+BBC Sport online:  https://t.co/J5Un4fN…",BBCNews,0.0,0.0,0.0,1.0,2017-12-17 17:40:21
+@BBCNews,Sun Dec 17 17:40:21 +0000 2017,"RT @BBCSport: We're LIVE NOW with @TomDaley1994 and @YasminEvans from the red carpet at #SPOTY!
+
+?
+
+BBC Sport online:  https://t.co/J5Un4fN…",BBCNews,0.0,0.0,0.0,1.0,2017-12-17 17:40:21
+@CBSNews,Sun Dec 17 17:34:28 +0000 2017,"Sen. John McCain is ""doing well"" and is ""looking forward to heading back home to Arizona for the holidays,"" his son… https://t.co/THO8eLo7oJ",CBSNews,0.2732,0.091,0.0,0.909,2017-12-17 17:34:28
+@BBCNews,Sun Dec 17 17:30:34 +0000 2017,BBC Sports Personality of the Year 2017 has kicked off - follow our live page here https://t.co/HoDItOGxPl… https://t.co/9Wg5oAGsJQ,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 17:30:34
+@BBCNews,Sun Dec 17 17:30:34 +0000 2017,BBC Sports Personality of the Year 2017 has kicked off - follow our live page here https://t.co/HoDItOGxPl… https://t.co/9Wg5oAGsJQ,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 17:30:34
+@CNN,Sun Dec 17 17:30:31 +0000 2017,"Their missions vary greatly: To provide loving homes for orphaned children, feed those in crisis or mend war's psyc… https://t.co/W1XsbAJDGW",CNN,0.0164,0.159,0.156,0.685,2017-12-17 17:30:31
+@nytimes,Sun Dec 17 17:30:06 +0000 2017,"“If we treat the dead like garbage, then the living are just walking garbage"" https://t.co/02ZcZGJPWY",nytimes,-0.0258,0.242,0.2,0.558,2017-12-17 17:30:06
+@CNN,Sun Dec 17 17:22:18 +0000 2017,"""Do I need a British accent?"" former President Barack Obama jokes before Prince Harry interviews him for a radio sh… https://t.co/rzrdHHlhmw",CNN,0.25,0.105,0.0,0.895,2017-12-17 17:22:18
+@nytimes,Sun Dec 17 17:20:41 +0000 2017,RT @nytimesworld: Chile’s presidential election is the first in a series that will alter the political trajectory of Latin America. Voters…,nytimes,0.0,0.0,0.0,1.0,2017-12-17 17:20:41
+@CBSNews,Sun Dec 17 17:20:01 +0000 2017,Sen. Bernie Sanders joined @FaceTheNation to discuss the GOP tax bill and the special election in Alabama… https://t.co/kqI5WzIAwg,CBSNews,0.4019,0.137,0.0,0.863,2017-12-17 17:20:01
+@nytimes,Sun Dec 17 17:11:43 +0000 2017,"For women, the burden of caring for children can be so great that many opt to be sterilized. https://t.co/sih8vOdYKk https://t.co/VOkLi9AyNW",nytimes,0.7609,0.298,0.102,0.6,2017-12-17 17:11:43
+@nytimes,Sun Dec 17 17:10:05 +0000 2017,"When this baby died, severe malnutrition was listed as the cause of death — rare in Venezuela. “In some public hosp… https://t.co/8Xcc8jnuwX",nytimes,-0.8779,0.0,0.359,0.641,2017-12-17 17:10:05
+@nytimes,Sun Dec 17 17:08:04 +0000 2017,"Oriana Caraballo couldn’t bear the pain of watching her kids go hungry. She was about to hang herself, but then she… https://t.co/H5Fsxn0YOG",nytimes,-0.2846,0.0,0.093,0.907,2017-12-17 17:08:04
+@nytimes,Sun Dec 17 17:06:29 +0000 2017,"Esteban’s mother couldn’t breast-feed him, so a neighbor did it. The baby was rushed to a hospital weighing 4 pound… https://t.co/YkDLVfVqNd",nytimes,0.0,0.0,0.0,1.0,2017-12-17 17:06:29
+@nytimes,Sun Dec 17 17:04:49 +0000 2017,"“Your mamá is here with you, my daughter — and I love you,” Albiannys Castillo told her baby girl. The 5-month-old… https://t.co/o48WDtbtOF",nytimes,0.6369,0.181,0.0,0.819,2017-12-17 17:04:49
+@CBSNews,Sun Dec 17 17:04:41 +0000 2017,White House @PressSec Sarah Huckabee Sanders confirms on Twitter that President Trump spoke with Russian President… https://t.co/lT0GxQHWoz,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 17:04:41
+@nytimes,Sun Dec 17 17:03:21 +0000 2017,"Kenyerber Aquino Merchán was born healthy: 6 pounds 7 ounces. At 17 months old, he starved to death.… https://t.co/OOiwWFAOTh",nytimes,-0.2263,0.127,0.169,0.704,2017-12-17 17:03:21
+@nytimes,Sun Dec 17 17:02:12 +0000 2017,"In the last 3 years, Venezuela’s economy has collapsed. Now, hunger grips the nation. https://t.co/sih8vOdYKk https://t.co/Zi3hijwNm0",nytimes,-0.4767,0.0,0.24,0.76,2017-12-17 17:02:12
+@CNN,Sun Dec 17 17:00:47 +0000 2017,"Alabama Senator-elect Doug Jones says it's time to move on from the special election, even though Roy Moore won't c… https://t.co/f8FhRyXZeo",CNN,0.4019,0.119,0.0,0.881,2017-12-17 17:00:47
+@nytimes,Sun Dec 17 17:00:04 +0000 2017,"“Sometimes they die in your arms just from dehydration.” Children in Venezuela are dying of malnutrition, but the g… https://t.co/aZXotKRtrN",nytimes,-0.3506,0.0,0.114,0.886,2017-12-17 17:00:04
+@CBSNews,Sun Dec 17 17:00:02 +0000 2017,"Michael McDonald is back with ""Wide Open"" and at 65, the singer-songwriter is still soft-rock royalty with this lat… https://t.co/suaW8JKxSD",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 17:00:02
+@BBCNews,Sun Dec 17 16:52:04 +0000 2017,UK diplomat found murdered in Lebanon https://t.co/UPQe7LBOU1,BBCNews,-0.6597,0.0,0.423,0.577,2017-12-17 16:52:04
+@BBCNews,Sun Dec 17 16:52:04 +0000 2017,UK diplomat found murdered in Lebanon https://t.co/UPQe7LBOU1,BBCNews,-0.6597,0.0,0.423,0.577,2017-12-17 16:52:04
+@nytimes,Sun Dec 17 16:52:03 +0000 2017,"RT @nytimesarts: Oxford Dictionaries chose ""youthquake"" as the international Word of the Year. What would your choice be and why? https://t…",nytimes,0.0,0.0,0.0,1.0,2017-12-17 16:52:03
+@nytimes,Sun Dec 17 16:45:13 +0000 2017,The altitude is called the “death zone” for good reason. Climbing Everest is a formidable feat. The only thing more… https://t.co/IBmjk4b81l,nytimes,0.4404,0.132,0.0,0.868,2017-12-17 16:45:13
+@CNN,Sun Dec 17 16:45:10 +0000 2017,UK Prime Minister Theresa May 'will not be derailed' on Brexit https://t.co/7JL1uYtLps https://t.co/wnxnGUW2Kt,CNN,0.2584,0.145,0.0,0.855,2017-12-17 16:45:10
+@CBSNews,Sun Dec 17 16:40:01 +0000 2017,"Treasury Sec. Mnuchin says lobbyists ""absolutely"" defeated in tax process: ""The reason why there are so many people… https://t.co/NAUfeJOfQY",CBSNews,-0.3182,0.082,0.142,0.776,2017-12-17 16:40:01
+@CBSNews,Sun Dec 17 16:31:00 +0000 2017,"RT @FaceTheNation: ""I'm happy to say that he's doing well."" -Sen. John McCain's son-in-law @BDomenech reports on the senator's condition. ""…",CBSNews,0.5719,0.156,0.0,0.844,2017-12-17 16:31:00
+@CNN,Sun Dec 17 16:30:45 +0000 2017,Treasury Secretary Steven Mnuchin says he has no reason to think President Trump will fire special counsel Robert M… https://t.co/IiekN4b6P7,CNN,-0.0258,0.179,0.183,0.637,2017-12-17 16:30:45
+@nytimes,Sun Dec 17 16:30:14 +0000 2017,"Since Hurricane Maria steamrollered Puerto Rico, the day-to-day job of digging out has fallen largely to island res… https://t.co/dOsP1VzSlj",nytimes,-0.3612,0.0,0.122,0.878,2017-12-17 16:30:14
+@BBCNews,Sun Dec 17 16:27:37 +0000 2017,"RT @BBCSport: How do I vote? ?
+When is the ceremony? ?
+Who are the #SPOTY nominees? ?
+
+Everything you need to know about BBC Sports Persona…",BBCNews,0.0,0.0,0.0,1.0,2017-12-17 16:27:37
+@BBCNews,Sun Dec 17 16:27:37 +0000 2017,"RT @BBCSport: How do I vote? ?
+When is the ceremony? ?
+Who are the #SPOTY nominees? ?
+
+Everything you need to know about BBC Sports Persona…",BBCNews,0.0,0.0,0.0,1.0,2017-12-17 16:27:37
+@CBSNews,Sun Dec 17 16:20:01 +0000 2017,Treasury Sec. Steven Mnuchin joined @FaceTheNation to discuss the GOP tax bill https://t.co/QNS04vSKip https://t.co/QcglQMaIhT,CBSNews,0.2023,0.122,0.0,0.878,2017-12-17 16:20:01
+@CNN,Sun Dec 17 16:18:20 +0000 2017,"Children's health should be more important than tax cuts, writes Dean Obeidallah for @CNNOpinion… https://t.co/PzfT1VwAWI",CNN,-0.0276,0.121,0.127,0.752,2017-12-17 16:18:20
+@nytimes,Sun Dec 17 16:15:06 +0000 2017,An Australian man was charged with trying to help North Korea sell its missile and other military technology abroad https://t.co/XPRYg37Bwx,nytimes,0.2263,0.12,0.08,0.8,2017-12-17 16:15:06
+@CBSNews,Sun Dec 17 16:01:01 +0000 2017,"Democrat Doug Jones made headlines last Tuesday winning the election for U.S. Senate in Alabama. 
+This morning, the… https://t.co/EXQ8QTCtbj",CBSNews,0.5267,0.159,0.0,0.841,2017-12-17 16:01:01
+@CNN,Sun Dec 17 16:00:16 +0000 2017,"Bernie Sanders has joined the list of lawmakers calling on President Trump to resign, citing the multiple allegatio… https://t.co/HtlsGzjfnW",CNN,-0.34,0.0,0.118,0.882,2017-12-17 16:00:16
+@nytimes,Sun Dec 17 16:00:03 +0000 2017,The ACLU is asking a judge to stop the government from preventing 2 undocumented teenagers from seeking abortions https://t.co/ORwKJBNJU8,nytimes,-0.3182,0.0,0.18,0.82,2017-12-17 16:00:03
+@BBCNews,Sun Dec 17 15:53:02 +0000 2017,"RT @BBCSPOTY: Dress rehearsals are under way.
+
+@NoelGallagher 's High Flying Birds are warming up for kicking off tonight's #SPOTY. 
+
+Watch…",BBCNews,0.1531,0.074,0.0,0.926,2017-12-17 15:53:02
+@BBCNews,Sun Dec 17 15:53:02 +0000 2017,"RT @BBCSPOTY: Dress rehearsals are under way.
+
+@NoelGallagher 's High Flying Birds are warming up for kicking off tonight's #SPOTY. 
+
+Watch…",BBCNews,0.1531,0.074,0.0,0.926,2017-12-17 15:53:02
+@CBSNews,Sun Dec 17 15:51:01 +0000 2017,Sen. James Lankford joined @FaceTheNation to answer questions about the Russia investigation and the GOP tax plan… https://t.co/jy1WPTm3gi,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 15:51:01
+@CNN,Sun Dec 17 15:45:12 +0000 2017,A baby born with her heart outside her body has survived three surgeries to insert it back into her chest… https://t.co/MrHTAABsAh,CNN,0.5106,0.148,0.0,0.852,2017-12-17 15:45:12
+@nytimes,Sun Dec 17 15:45:06 +0000 2017,He is the fifth member of Congress to step aside in the past 2 weeks as part of the national reckoning over sexual… https://t.co/w7WSZqWs3k,nytimes,0.0,0.0,0.0,1.0,2017-12-17 15:45:06
+@BBCNews,Sun Dec 17 15:43:02 +0000 2017,"RT @BBCSport: Well done to this little fella ?
+
+Bradley Lowery, the boy whose bravery touched the hearts of many people, will be honoured a…",BBCNews,0.7152,0.274,0.082,0.644,2017-12-17 15:43:02
+@BBCNews,Sun Dec 17 15:43:02 +0000 2017,"RT @BBCSport: Well done to this little fella ?
+
+Bradley Lowery, the boy whose bravery touched the hearts of many people, will be honoured a…",BBCNews,0.7152,0.274,0.082,0.644,2017-12-17 15:43:02
+@CNN,Sun Dec 17 15:30:32 +0000 2017,Take a look back at the photos that shaped 2017 https://t.co/FxlEcWRHyZ https://t.co/iE2e4HCytW,CNN,0.0,0.0,0.0,1.0,2017-12-17 15:30:32
+@nytimes,Sun Dec 17 15:30:14 +0000 2017,"“I think most Americans would be outraged to know that they are subsidizing sexual predators in the tax code"" https://t.co/MODkz4CTEr",nytimes,-0.5423,0.0,0.156,0.844,2017-12-17 15:30:14
+@nytimes,Sun Dec 17 15:23:14 +0000 2017,"RT @nytvideo: Sequins. Leather. Skates. Our five-video series celebrates dancing around the world, from the asphalt streets of Tokyo to a s…",nytimes,0.5719,0.156,0.0,0.844,2017-12-17 15:23:14
+@CBSNews,Sun Dec 17 15:21:01 +0000 2017,Holiday gift ideas from Techno Claus (aka David Pogue) who delivers some gift suggestions for those on your list wh… https://t.co/JcEwdKCDsU,CBSNews,0.8176,0.321,0.0,0.679,2017-12-17 15:21:01
+@CNN,Sun Dec 17 15:15:29 +0000 2017,"Rep. Himes: The President is attacking the FBI; “You have to ask yourself, ‘Why?’” If you're convinced you're innoc… https://t.co/t24I443NcJ",CNN,-0.0772,0.114,0.127,0.759,2017-12-17 15:15:29
+@nytimes,Sun Dec 17 15:15:06 +0000 2017,Figure out where your taxes are going with our interactive calculator https://t.co/PovzWGL88l,nytimes,0.0,0.0,0.0,1.0,2017-12-17 15:15:06
+@BBCNews,Sun Dec 17 15:11:53 +0000 2017,Salford house fire: Vigil held for killed siblings https://t.co/PaNwJAkJFz,BBCNews,-0.7845,0.0,0.496,0.504,2017-12-17 15:11:53
+@BBCNews,Sun Dec 17 15:11:53 +0000 2017,Salford house fire: Vigil held for killed siblings https://t.co/PaNwJAkJFz,BBCNews,-0.7845,0.0,0.496,0.504,2017-12-17 15:11:53
+@CBSNews,Sun Dec 17 15:01:01 +0000 2017,"As the surprise hit of this holiday season, L.O.L. Surprise has its own surprising backstory. The toy is inspired b… https://t.co/2YfUQLxbOi",CBSNews,0.8916,0.441,0.0,0.559,2017-12-17 15:01:01
+@nytimes,Sun Dec 17 15:00:32 +0000 2017,"As the Nigerian military has begun making headway against Boko Haram, people are regaining their social lives, in t… https://t.co/R9djGwNN7Z",nytimes,0.0,0.0,0.0,1.0,2017-12-17 15:00:32
+@CNN,Sun Dec 17 15:00:30 +0000 2017,"For the first time, eight planets have been found orbiting a distant star, Kepler-90, 2,545 light-years from Earth,… https://t.co/IP3AsLYMco",CNN,0.0,0.0,0.0,1.0,2017-12-17 15:00:30
+@BBCNews,Sun Dec 17 14:53:27 +0000 2017,"Ban sale of mini mobile phones, justice secretary says https://t.co/5WjySpJJQK",BBCNews,-0.0516,0.227,0.24,0.533,2017-12-17 14:53:27
+@BBCNews,Sun Dec 17 14:53:27 +0000 2017,"Ban sale of mini mobile phones, justice secretary says https://t.co/5WjySpJJQK",BBCNews,-0.0516,0.227,0.24,0.533,2017-12-17 14:53:27
+@CNN,Sun Dec 17 14:53:00 +0000 2017,Sen.-elect Doug Jones of Alabama doesn’t join the several Senate Democrats calling for President Trump to step down… https://t.co/ISuV4fOE4Z,CNN,0.296,0.109,0.0,0.891,2017-12-17 14:53:00
+@CNN,Sun Dec 17 14:47:00 +0000 2017,"Alabama Sen.-elect Doug Jones: ""I'm gonna commit to having a Senate office that reflects the diversity of Alabama.… https://t.co/kwvVAgUrPr",CNN,0.296,0.115,0.0,0.885,2017-12-17 14:47:00
+@CNN,Sun Dec 17 14:45:10 +0000 2017,"Prince Harry and Meghan Markle will marry on May 19, 2018, Kensington Palace says https://t.co/jVRSRqwYf6 https://t.co/Cu0RUjhsNq",CNN,0.0,0.0,0.0,1.0,2017-12-17 14:45:10
+@nytimes,Sun Dec 17 14:45:09 +0000 2017,Gift ideas under $50 https://t.co/RGv31K9buB https://t.co/3LxQlsJgud,nytimes,0.4404,0.367,0.0,0.633,2017-12-17 14:45:09
+@CBSNews,Sun Dec 17 14:41:01 +0000 2017,Sen. Chuck Schumer called on the TSA to formally test bomb-detection devices in New York City transit hubs in wake… https://t.co/rjpI2dagRs,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 14:41:01
+@CNN,Sun Dec 17 14:36:00 +0000 2017,Alabama Sen.-elect Doug Jones on if he considers voting with Republicans on certain issues: “Of course I do”… https://t.co/d5sRr3wJkj,CNN,0.2732,0.11,0.0,0.89,2017-12-17 14:36:00
+@BBCNews,Sun Dec 17 14:33:46 +0000 2017,Barack Obama prepares for his Today programme interview with Prince Harry https://t.co/yKbNQCu95A,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 14:33:46
+@BBCNews,Sun Dec 17 14:33:46 +0000 2017,Barack Obama prepares for his Today programme interview with Prince Harry https://t.co/yKbNQCu95A,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 14:33:46
+@nytimes,Sun Dec 17 14:32:04 +0000 2017,"RT @NYTmag: “The list was not long for this world, but maybe it lived long enough to prove its point.” — @jennydeluxe https://t.co/AK2PGf2J…",nytimes,0.0,0.0,0.0,1.0,2017-12-17 14:32:04
+@CNN,Sun Dec 17 14:30:20 +0000 2017,The photos that shaped 2017 https://t.co/0gA9dMQ0VS https://t.co/zPpBl2aZy0,CNN,0.0,0.0,0.0,1.0,2017-12-17 14:30:20
+@CNN,Sun Dec 17 14:30:06 +0000 2017,"""The war on Christmas is over...it will soon be replaced by the war with North Korea"": Saturday Night Live had a sp… https://t.co/kYFbB6vjO9",CNN,-0.8316,0.0,0.281,0.719,2017-12-17 14:30:06
+@CBSNews,Sun Dec 17 14:21:01 +0000 2017,"U.S. Senator Cory Booker (D-NJ) is under increased security after death threat, Newark mayor says… https://t.co/6qnefdJ9Yq",CBSNews,-0.5859,0.189,0.307,0.504,2017-12-17 14:21:01
+@CNN,Sun Dec 17 14:20:21 +0000 2017,"Alabama Sen.-elect Doug Jones has a message for Roy Moore: ""It's time to move on. Alabama has spoken."" #CNNSOTU https://t.co/4VLqvsAcFg",CNN,0.0,0.0,0.0,1.0,2017-12-17 14:20:21
+@nytimes,Sun Dec 17 14:20:07 +0000 2017,"""I have no idea what I saw. It had no plumes, wings or rotors and outran our F-18s.""
+
+But, he added, ""I want to fly… https://t.co/GM0fKIt5Fx",nytimes,-0.4767,0.047,0.159,0.794,2017-12-17 14:20:07
+@CNN,Sun Dec 17 14:19:36 +0000 2017,"Alabama Sen.-elect Doug Jones says the ""Mueller investigation is gonna shake down the way it's gonna shake down""… https://t.co/cILeYK7ALg",CNN,-0.34,0.0,0.167,0.833,2017-12-17 14:19:36
+@BBCNews,Sun Dec 17 14:16:17 +0000 2017,"RT @BBCSport: It's nearly time for #SPOTY 2017
+
+@BBCOne, 6.45pm. Be there!
+
+A reminder of the contenders?https://t.co/F04bVtoCt0 https://t.…",BBCNews,0.0,0.0,0.0,1.0,2017-12-17 14:16:17
+@BBCNews,Sun Dec 17 14:16:17 +0000 2017,"RT @BBCSport: It's nearly time for #SPOTY 2017
+
+@BBCOne, 6.45pm. Be there!
+
+A reminder of the contenders?https://t.co/F04bVtoCt0 https://t.…",BBCNews,0.0,0.0,0.0,1.0,2017-12-17 14:16:17
+@CNN,Sun Dec 17 14:16:14 +0000 2017,Treasury Secretary Steve Mnuchin responds to a report that the CDC was given a list of banned words and says that t… https://t.co/zLawSK8Wmr,CNN,-0.296,0.076,0.126,0.798,2017-12-17 14:16:14
+@CNN,Sun Dec 17 14:15:07 +0000 2017,Climate change in the Northern Arctic is happening so quickly it's forcing NOAA and others to rewrite a data-correc… https://t.co/byM6Hxd4S5,CNN,0.0,0.0,0.0,1.0,2017-12-17 14:15:07
+@CNN,Sun Dec 17 14:08:10 +0000 2017,Treasury Secretary Steve Mnuchin on the GOP tax plan: “This is the biggest single change to the tax system in fixin… https://t.co/f8FIBHuklc,CNN,0.2023,0.079,0.0,0.921,2017-12-17 14:08:10
+@nytimes,Sun Dec 17 14:08:02 +0000 2017,Puerto Rico is bracing for another blow: a foreclosure epidemic that could rival what happened in Detroit https://t.co/n2h5ilVBgD,nytimes,-0.128,0.0,0.086,0.914,2017-12-17 14:08:02
+@CBSNews,Sun Dec 17 14:03:06 +0000 2017,Symantec CEO on why consumers need to step up their cybersecurity https://t.co/M0IyeFlwPK https://t.co/hUC5k5mObU,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 14:03:06
+@CNN,Sun Dec 17 14:00:16 +0000 2017,Donald Trump won 81% of the vote in this small Kentucky town. But residents aren't waiting on Washington to fix thi… https://t.co/anf0Tgsrid,CNN,0.5719,0.15,0.0,0.85,2017-12-17 14:00:16
+@nytimes,Sun Dec 17 13:58:14 +0000 2017,"RT @NYTSports: Carmelo Anthony returned to Madison Square Garden, where he got a video tribute, hugs, cheers, jeers and only 5 baskets out…",nytimes,0.743,0.249,0.0,0.751,2017-12-17 13:58:14
+@CBSNews,Sun Dec 17 13:48:05 +0000 2017,2 workers crushed when house flooded by Hurricane Harvey collapses https://t.co/9lWkYe2ZY3 https://t.co/wSWZyR47M1,CBSNews,-0.6124,0.0,0.357,0.643,2017-12-17 13:48:05
+@CNN,Sun Dec 17 13:45:04 +0000 2017,"The vote to roll back #netneutrality rules was slammed by tech giants like Amazon, Facebook and Netflix.
+
+It was ap… https://t.co/MlBOYNJIEA",CNN,0.4939,0.181,0.0,0.819,2017-12-17 13:45:04
+@CBSNews,Sun Dec 17 13:33:05 +0000 2017,Plan released to divide donations among Las Vegas shooting victims https://t.co/SuDbpo5ecf https://t.co/plCyo4NTjc,CBSNews,-0.3182,0.0,0.173,0.827,2017-12-17 13:33:05
+@CNN,Sun Dec 17 13:30:24 +0000 2017,'The Simpsons' predicted Disney would buy Fox in an episode that aired way back in 1998 https://t.co/wm0VhNdG4E https://t.co/NEaQAwQaMK,CNN,0.0,0.0,0.0,1.0,2017-12-17 13:30:24
+@nytimes,Sun Dec 17 13:30:06 +0000 2017,Kirsten Gillibrand has assumed her place at the head table of the Democrats’ anti-Trump movement https://t.co/rP0KXTe7Bd,nytimes,0.0,0.0,0.0,1.0,2017-12-17 13:30:06
+@CBSNews,Sun Dec 17 13:18:08 +0000 2017,White House expects Western Wall to be part of Israel https://t.co/gceCCqQTZP https://t.co/ojEfIW9bip,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 13:18:08
+@BBCNews,Sun Dec 17 13:15:13 +0000 2017,Diane Abbott: Listen to CBI and NHS' on Brexit migration https://t.co/TYBpYL5gH2,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 13:15:13
+@BBCNews,Sun Dec 17 13:15:13 +0000 2017,Diane Abbott: Listen to CBI and NHS' on Brexit migration https://t.co/TYBpYL5gH2,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 13:15:13
+@CNN,Sun Dec 17 13:15:03 +0000 2017,"Their missions vary greatly: To provide loving homes for orphaned children, feed those in crisis or mend war's psyc… https://t.co/3yhQP4nwcX",CNN,0.0164,0.159,0.156,0.685,2017-12-17 13:15:03
+@nytimes,Sun Dec 17 13:10:06 +0000 2017,"Hisham loved Arkansas and the mosque he founded in town. He thought about how little the vandals understood.
+
+Abrah… https://t.co/t4fRIUl2Gb",nytimes,0.5994,0.17,0.0,0.83,2017-12-17 13:10:06
+@nytimes,Sun Dec 17 13:08:08 +0000 2017,News Analysis: When Saying ‘Yes’ Is Easier Than Saying ‘No’ https://t.co/l9E0RYkk1R,nytimes,0.4215,0.219,0.0,0.781,2017-12-17 13:08:08
+@CBSNews,Sun Dec 17 13:03:04 +0000 2017,Iowa mom guilty in starving death of teen who weighed 85 pounds https://t.co/kp7ycSK57M https://t.co/dV4qf3oTUr,CBSNews,-0.8591,0.0,0.463,0.537,2017-12-17 13:03:04
+@CNN,Sun Dec 17 13:02:11 +0000 2017,Two paintings by Renaissance artist Raphael have been discovered at the Vatican - after being hidden for 500 years https://t.co/0Q5WAB18oX,CNN,0.0,0.0,0.0,1.0,2017-12-17 13:02:11
+@nytimes,Sun Dec 17 13:00:20 +0000 2017,"""It’s authoritarian, the cult of personality. It’s saying that we’re American — and you’re not."" https://t.co/rYkFab08ZP",nytimes,0.0,0.0,0.0,1.0,2017-12-17 13:00:20
+@CBSNews,Sun Dec 17 12:48:04 +0000 2017,"Texas attorney general's aide resigns after post disparaging ""pathetic"" women https://t.co/j3ane277VA https://t.co/KXksD7TCmu",CBSNews,-0.6705,0.0,0.355,0.645,2017-12-17 12:48:04
+@nytimes,Sun Dec 17 12:40:07 +0000 2017,"They lost their country. Then a fire robbed them of even more.
+https://t.co/tEkYlas9Za",nytimes,-0.5719,0.0,0.32,0.68,2017-12-17 12:40:07
+@CBSNews,Sun Dec 17 12:33:05 +0000 2017,White House press secretary Sarah Sanders ends #PieGate https://t.co/rVOQS8kqGR https://t.co/OQoaJweqzd,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 12:33:05
+@nytimes,Sun Dec 17 12:30:09 +0000 2017,"The tax code has long offered rewards for buying rather than renting, an equation that the Republican bill upends https://t.co/VfcMD4F4g4",nytimes,0.4767,0.14,0.0,0.86,2017-12-17 12:30:09
+@nytimes,Sun Dec 17 12:21:34 +0000 2017,La maison la plus chère du monde? Simple babiole pour un prince saoudien https://t.co/Z1A4qY9mfX,nytimes,0.0,0.0,0.0,1.0,2017-12-17 12:21:34
+@CBSNews,Sun Dec 17 12:18:07 +0000 2017,"Police sergeant shot son for drinking his vodka, prosecutors say https://t.co/PNeG7ralDQ https://t.co/ldxtiSWNZl",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 12:18:07
+@nytimes,Sun Dec 17 12:06:49 +0000 2017,Suicide Bombers Target Pakistan Church Packed With Worshipers https://t.co/NNevzfXoTr,nytimes,-0.5574,0.142,0.336,0.522,2017-12-17 12:06:49
+@BBCNews,Sun Dec 17 12:04:20 +0000 2017,Two climbers rescued from Cairngorms mountain https://t.co/jAwSxFMXjF,BBCNews,0.4215,0.318,0.0,0.682,2017-12-17 12:04:20
+@CBSNews,Sun Dec 17 12:03:06 +0000 2017,Kansas congressional hopeful Andrea Ramsey drops out over 2005 harassment suit https://t.co/d3iPxBUTYj https://t.co/NgFC5Uij7g,CBSNews,-0.0516,0.185,0.197,0.618,2017-12-17 12:03:06
+@BBCNews,Sun Dec 17 12:01:09 +0000 2017,Appeal over death of Commons deputy speaker's daughter https://t.co/49aUNDxGeF,BBCNews,-0.5994,0.0,0.328,0.672,2017-12-17 12:01:09
+@BBCNews,Sun Dec 17 12:01:06 +0000 2017,Two PCs critically hurt after being hit by car in Brent https://t.co/TqP3Zz2396,BBCNews,-0.5267,0.0,0.236,0.764,2017-12-17 12:01:06
+@CNN,Sun Dec 17 12:00:16 +0000 2017,"For the first time, eight planets have been found orbiting a distant star, Kepler-90, 2,545 light-years from Earth,… https://t.co/oI8pyj8IWb",CNN,0.0,0.0,0.0,1.0,2017-12-17 12:00:16
+@nytimes,Sun Dec 17 12:00:14 +0000 2017,"In a White House where drama and chaos have been prominent, Omarosa Manigault Newman was known for contributing to… https://t.co/Nbr6Oc38Ux",nytimes,-0.34,0.1,0.161,0.739,2017-12-17 12:00:14
+@BBCNews,Sun Dec 17 11:58:48 +0000 2017,RT @bbc5live: 5 live Investigates went undercover to reveal how a scheme to help problem gamblers doesn’t work https://t.co/mQhsidkVmF,BBCNews,0.0,0.132,0.132,0.735,2017-12-17 11:58:48
+@BBCNews,Sun Dec 17 11:52:58 +0000 2017,*Spoiler alert: the moment this year's winner of @bbcstrictly was announced https://t.co/rQsI6eI6Py https://t.co/q4ThW7A5s6,BBCNews,0.7184,0.353,0.0,0.647,2017-12-17 11:52:58
+@CBSNews,Sun Dec 17 11:48:04 +0000 2017,Judge temporarily blocks Trump administration birth control rules https://t.co/CSNVtQp5VI https://t.co/AyB1GlnbEm,CBSNews,-0.2263,0.0,0.174,0.826,2017-12-17 11:48:04
+@CBSNews,Sun Dec 17 11:33:05 +0000 2017,GOP tax bill nixes incentive for company commuter benefits https://t.co/gyWeaYOqzC https://t.co/ADXZ0DxDul,CBSNews,0.6249,0.362,0.0,0.638,2017-12-17 11:33:05
+@nytimes,Sun Dec 17 11:30:15 +0000 2017,The Pentagon has acknowledged a secret program to investigate UFOs. It began in 2007 as a pet project of Harry Reid… https://t.co/Sedix2TEdN,nytimes,0.0,0.0,0.0,1.0,2017-12-17 11:30:15
+@CNN,Sun Dec 17 11:30:13 +0000 2017,"A mother's questions about her son's death leads to a yearlong investigation, revealing serious questions about the… https://t.co/rgl636u6iQ",CNN,-0.6369,0.0,0.271,0.729,2017-12-17 11:30:13
+@CBSNews,Sun Dec 17 11:18:08 +0000 2017,"Senate GOP gains votes from Corker, Rubio, improving chances of final tax agreement https://t.co/SXYyaj8cC5 https://t.co/D3lsSRdHPj",CBSNews,0.8481,0.481,0.0,0.519,2017-12-17 11:18:08
+@BBCNews,Sun Dec 17 11:11:50 +0000 2017,RT @BBCr4today: 'Do I need a British accent?' @BarackObama is interviewed by Prince Harry for his guest edit of @BBCr4today. In this warm-u…,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 11:11:50
+@CBSNews,Sun Dec 17 11:03:05 +0000 2017,Why American women are dying younger https://t.co/Y00RkPWrtU https://t.co/cf0oqVItK2,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 11:03:05
+@CNN,Sun Dec 17 11:00:39 +0000 2017,Take a look back at the photos that shaped 2017 https://t.co/cFC16FkVIg https://t.co/fddQtcB7sI,CNN,0.0,0.0,0.0,1.0,2017-12-17 11:00:39
+@nytimes,Sun Dec 17 11:00:19 +0000 2017,A poll finds that Americans don’t expect their own taxes to decline next year https://t.co/jtx4X9plMX,nytimes,0.0,0.0,0.0,1.0,2017-12-17 11:00:19
+@BBCNews,Sun Dec 17 10:58:13 +0000 2017,The year that was... https://t.co/2whAg9M0bk,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 10:58:13
+@BBCNews,Sun Dec 17 10:57:25 +0000 2017,RT @bbcweather: It looks rather damp for the #PremierLeague matches this afternoon with outbreaks of #rain. Stav Danaos https://t.co/FVwee6…,BBCNews,0.0,0.0,0.0,1.0,2017-12-17 10:57:25
+@CBSNews,Sun Dec 17 10:48:04 +0000 2017,Anesthesiologist charged with murder in death of plastic surgery patient https://t.co/VmLm3Lc3SS https://t.co/cQ5Q6qr6qj,CBSNews,-0.886,0.0,0.536,0.464,2017-12-17 10:48:04
+@nytimes,Sun Dec 17 10:48:03 +0000 2017,Matter: Ancient Penguins Were Giant Waddling Predators https://t.co/N0eIMq0QNo,nytimes,0.0258,0.136,0.0,0.864,2017-12-17 10:48:03
+@CBSNews,Sun Dec 17 10:33:08 +0000 2017,"Facebook: We know we're bad for your mental health, here's how to fix it https://t.co/2HTz8vFTQE https://t.co/EkLGWTUXX8",CBSNews,-0.5423,0.0,0.189,0.811,2017-12-17 10:33:08
+@CNN,Sun Dec 17 10:30:43 +0000 2017,"""I was a healthy 33-year-old, and I'm not going to be a healthy 34-year-old."" Ady Barkan, who is battling ALS and c… https://t.co/sxkGLooegP",CNN,0.5106,0.212,0.082,0.706,2017-12-17 10:30:43
+@BBCNews,Sun Dec 17 10:20:13 +0000 2017,Tewkesbury water supply restored after major burst https://t.co/bzmNfRe1Cf,BBCNews,0.34,0.255,0.0,0.745,2017-12-17 10:20:13
+@CBSNews,Sun Dec 17 10:18:08 +0000 2017,"Ashley Judd, Mira Sorvino respond after director Peter Jackson claimed Harvey Weinstein blacklisted them… https://t.co/O9O6pauzXt",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 10:18:08
+@BBCNews,Sun Dec 17 10:12:08 +0000 2017,Emergency crews were called to the scene near Bristol Road in Birmingham at about 01:00 GMT… https://t.co/qWmQDOwvw0,BBCNews,-0.3818,0.0,0.14,0.86,2017-12-17 10:12:08
+@CBSNews,Sun Dec 17 10:03:05 +0000 2017,Army dad surprises son at Maryland school ahead of Christmas https://t.co/UOpeQFb4dS https://t.co/3aOTVCiITv,CBSNews,0.2263,0.147,0.0,0.853,2017-12-17 10:03:05
+@CNN,Sun Dec 17 10:00:07 +0000 2017,"The political upsets we've seen this year in New Jersey, Virginia and Alabama represent not so much a blue wave as… https://t.co/rD3mvvhJ7V",CNN,-0.3612,0.0,0.111,0.889,2017-12-17 10:00:07
+@BBCNews,Sun Dec 17 09:52:32 +0000 2017,"RT @MarrShow: Automatic enrolment of pensions from the age will 18 ""will get more people into the habit of saving"" - says @DavidGauke #marr…",BBCNews,0.0,0.0,0.0,1.0,2017-12-17 09:52:32
+@CBSNews,Sun Dec 17 09:48:09 +0000 2017,Father of boy allegedly subjected to unneeded surgeries speaks out https://t.co/dMaR9q3hgf https://t.co/IHqnkbMaBs,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 09:48:09
+@BBCNews,Sun Dec 17 09:47:04 +0000 2017,"RT @MarrShow: ""We want to halve it by 2022 and eliminate it by 2027"" - @AndrewMarr9 questions @DavidGauke on the increase of rough sleeping…",BBCNews,0.3818,0.146,0.0,0.854,2017-12-17 09:47:04
+@BBCNews,Sun Dec 17 09:45:12 +0000 2017,'My brother was killed by a single punch' https://t.co/rkcw5lpW5L,BBCNews,-0.6705,0.0,0.391,0.609,2017-12-17 09:45:12
+@BBCNews,Sun Dec 17 09:45:07 +0000 2017,Central Beacons rescue team battles on after fire https://t.co/mzUHr7gibQ,BBCNews,-0.1779,0.231,0.35,0.42,2017-12-17 09:45:07
+@BBCNews,Sun Dec 17 09:41:39 +0000 2017,Ashes: England face defeat as Australia inch closer to winning back urn https://t.co/gqCABBzqRU,BBCNews,0.1027,0.195,0.172,0.632,2017-12-17 09:41:39
+@BBCNews,Sun Dec 17 09:34:38 +0000 2017,Shadow Home Secretary @HackneyAbbott tells @MarrShow that she does not want second #Brexit referendum for electorat… https://t.co/8RO9R3gPsZ,BBCNews,-0.0572,0.0,0.071,0.929,2017-12-17 09:34:38
+@CBSNews,Sun Dec 17 09:33:10 +0000 2017,Two hungry polar bears scavenge for food at Alaska airport https://t.co/R29rbsQoJ3 https://t.co/DUCAxjgNv1,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 09:33:10
+@CNN,Sun Dec 17 09:30:12 +0000 2017,"The vote to roll back #netneutrality rules was slammed by tech giants like Amazon, Facebook and Netflix.
+
+It was ap… https://t.co/15k5EiOhg6",CNN,0.4939,0.181,0.0,0.819,2017-12-17 09:30:12
+@BBCNews,Sun Dec 17 09:28:25 +0000 2017,"""Bureaucracy is the real problem"" - Labour's @HackneyAbbott on Brexit @MarrShow
+
+ https://t.co/5G66970yd5 #Marr https://t.co/wLw2yDD5mE",BBCNews,-0.4019,0.0,0.184,0.816,2017-12-17 09:28:25
+@CNN,Sun Dec 17 09:18:08 +0000 2017,"A suicide bomber attacked a church packed with worshipers Sunday in Pakistan, killing 7 people and injuring more th… https://t.co/vPzsVBiI5V",CNN,-0.9001,0.071,0.444,0.485,2017-12-17 09:18:08
+@CBSNews,Sun Dec 17 09:18:07 +0000 2017,"Interior Secretary Ryan Zinke removes four ""senior leaders"" for inappropriate behavior https://t.co/BHQkCTCxcc https://t.co/EF9FgAJ95A",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 09:18:07
+@CBSNews,Sun Dec 17 09:03:04 +0000 2017,"Harvey Weinstein responds to Salma Hayek's ""Frida"" allegations https://t.co/GwwL9VJgL1 https://t.co/yjXNoMfS9F",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 09:03:04
+@CNN,Sun Dec 17 09:01:27 +0000 2017,"Lisa McNair's sister was killed in the '63 Alabama Baptist Church bombing. Years later, then a US attorney, Doug Jo… https://t.co/zoYFVZy1Qw",CNN,-0.6705,0.0,0.191,0.809,2017-12-17 09:01:27
+@BBCNews,Sun Dec 17 08:56:57 +0000 2017,Strictly Come Dancing 2017 final: Winner crowned https://t.co/G6aygcmsTO,BBCNews,0.5859,0.352,0.0,0.648,2017-12-17 08:56:57
+@CBSNews,Sun Dec 17 08:48:05 +0000 2017,"Good Samaritan stops would-be car burglar in his tracks, police say https://t.co/5HdZO4OS5y https://t.co/eXQ0P39SPL",CBSNews,0.3182,0.187,0.103,0.71,2017-12-17 08:48:05
+@CBSNews,Sun Dec 17 08:33:06 +0000 2017,Report: Pentagon program investigated reports of UFOs https://t.co/unRCjEIK4a https://t.co/cNNTpgz3Cw,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 08:33:06
+@BBCNews,Sun Dec 17 08:32:27 +0000 2017,'Very serious' crash closes major Birmingham road https://t.co/CChiKau1Ux,BBCNews,-0.5531,0.0,0.432,0.568,2017-12-17 08:32:27
+@CNN,Sun Dec 17 08:31:42 +0000 2017,Two paintings by Renaissance artist Raphael have been discovered at the Vatican — after being hidden for 500 years… https://t.co/mcaf4lmrpQ,CNN,0.0,0.0,0.0,1.0,2017-12-17 08:31:42
+@CBSNews,Sun Dec 17 08:18:08 +0000 2017,Republicans revel in all-but-certain tax deal https://t.co/C0NvkQthTj https://t.co/OsTSJQd7PI,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 08:18:08
+@CBSNews,Sun Dec 17 08:03:05 +0000 2017,"AP: More than $600,000 spent on police gear for pipeline protests https://t.co/JksCxvVDin https://t.co/tkbAMnj9YD",CBSNews,-0.2263,0.0,0.137,0.863,2017-12-17 08:03:05
+@CNN,Sun Dec 17 08:00:46 +0000 2017,This 500-year-old mystery at the Vatican has finally been solved https://t.co/ObyOTrzUPe https://t.co/uWRgu4N7ZX,CNN,0.2732,0.16,0.0,0.84,2017-12-17 08:00:46
+@CBSNews,Sun Dec 17 07:48:04 +0000 2017,Arrests along the U.S.-Mexico border surge https://t.co/OXTTJ1C8mJ https://t.co/5LeMXfHSl9,CBSNews,-0.4404,0.0,0.293,0.707,2017-12-17 07:48:04
+@CBSNews,Sun Dec 17 07:33:06 +0000 2017,Letter from Charleston church shooter reveals no remorse for killings https://t.co/WsMPbhHMLk https://t.co/4zgfXCuQ7B,CBSNews,-0.8316,0.0,0.494,0.506,2017-12-17 07:33:06
+@CBSNews,Sun Dec 17 07:18:06 +0000 2017,California health officials release guidelines on cellphone radiation https://t.co/NDqCH9ARn8 https://t.co/FtBpUgCLM3,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 07:18:06
+@CBSNews,Sun Dec 17 07:03:06 +0000 2017,"Earthquake hits Indonesia's Java Island, deaths reported https://t.co/mIhAokmeEZ https://t.co/Ic6F0euxcf",CBSNews,0.0,0.0,0.0,1.0,2017-12-17 07:03:06
+@CNN,Sun Dec 17 07:00:21 +0000 2017,A baby born with her heart outside her body has survived three surgeries to insert it back into her chest… https://t.co/t6CXrDVSAR,CNN,0.5106,0.148,0.0,0.852,2017-12-17 07:00:21
+@CBSNews,Sun Dec 17 06:48:05 +0000 2017,President Trump touts GOP tax plan before departing for Camp David https://t.co/7rk2FU6YHA https://t.co/UJjWuOvUXw,CBSNews,-0.0258,0.0,0.084,0.916,2017-12-17 06:48:05
+@CBSNews,Sun Dec 17 06:33:05 +0000 2017,Uber driver accused of raping teen he drove home from bar https://t.co/ADZQTFhdS6 https://t.co/0EU426sWyw,CBSNews,-0.8062,0.0,0.398,0.602,2017-12-17 06:33:05
+@CNN,Sun Dec 17 06:30:09 +0000 2017,"For the first time, eight planets have been found orbiting a distant star, Kepler-90, 2,545 light-years from Earth,… https://t.co/aTUCnQTFTO",CNN,0.0,0.0,0.0,1.0,2017-12-17 06:30:09
+@CBSNews,Sun Dec 17 06:18:09 +0000 2017,Inflammatory letter sheds light on Uber's alleged misconduct https://t.co/qvkoXSButc https://t.co/je9kPKKoIv,CBSNews,0.0,0.0,0.0,1.0,2017-12-17 06:18:09
+@CNN,Sun Dec 17 06:00:14 +0000 2017,An American diplomat who resigned in disgust last week says she believes the Trump administration is putting Americ… https://t.co/1Dq2ARsv45,CNN,-0.7096,0.0,0.258,0.742,2017-12-17 06:00:14
+@CNN,Sun Dec 17 05:30:06 +0000 2017,"Sen. Bernie Sanders has joined the list of lawmakers calling on President Trump to resign, citing the multiple alle… https://t.co/3MIyfb5x8N",CNN,-0.34,0.0,0.112,0.888,2017-12-17 05:30:06
+@CNN,Sun Dec 17 05:00:15 +0000 2017,These 16 states are running out of funding for CHIP — the Children's Health Insurance Program… https://t.co/WPgDVDGZpQ,CNN,0.0,0.0,0.0,1.0,2017-12-17 05:00:15
+@BBCNews,Sun Dec 17 04:39:01 +0000 2017,Brexit: Theresa May says she 'will not be derailed' https://t.co/emYir0HIBE,BBCNews,0.2584,0.184,0.0,0.816,2017-12-17 04:39:01
+@CNN,Sun Dec 17 04:30:13 +0000 2017,'The Simpsons' predicted Disney would buy Fox in an episode that aired way back in 1998 https://t.co/bDaqptIuEM https://t.co/8rPHk2rmJd,CNN,0.0,0.0,0.0,1.0,2017-12-17 04:30:13
+@CNN,Sun Dec 17 04:00:05 +0000 2017,"For the first time, eight planets have been found orbiting a distant star, Kepler-90, 2,545 light-years from Earth,… https://t.co/tVDa4TuMCf",CNN,0.0,0.0,0.0,1.0,2017-12-17 04:00:05
+@BBCNews,Sun Dec 17 01:15:08 +0000 2017,Campaigners threaten legal action over 'abortion pill' https://t.co/xe054VBZT4,BBCNews,-0.2732,0.149,0.257,0.594,2017-12-17 01:15:08
+@BBCNews,Sun Dec 17 01:09:13 +0000 2017,Defence budget: New equipment at risk over MoD savings 'doubts' https://t.co/QvH101nAjk,BBCNews,-0.1779,0.112,0.168,0.72,2017-12-17 01:09:13
+@BBCNews,Sat Dec 16 23:57:24 +0000 2017,Pensions: Automatic saving to start at 18 under new plans https://t.co/v22QzFIBYP,BBCNews,0.0,0.0,0.0,1.0,2017-12-16 23:57:24
+@BBCNews,Sat Dec 16 23:57:24 +0000 2017,Bradley Lowery: Award for Sunderland mascot at BBC Sports Personality https://t.co/5swf9oLLtx,BBCNews,0.1779,0.229,0.183,0.588,2017-12-16 23:57:24
+@BBCNews,Sat Dec 16 20:04:18 +0000 2017,December shopper footfall down 'significantly' https://t.co/iLrut0M9Ru,BBCNews,0.0,0.0,0.0,1.0,2017-12-16 20:04:18
+@BBCNews,Sat Dec 16 19:33:22 +0000 2017,Manchester City 4-1 Tottenham Hotspur https://t.co/9ydhb5yseP,BBCNews,0.0,0.0,0.0,1.0,2017-12-16 19:33:22
+@BBCNews,Sat Dec 16 19:33:20 +0000 2017,Five drivers traced over fatal Tulse Hill hit-and-run https://t.co/0IyJZy4MdM,BBCNews,-0.5423,0.0,0.304,0.696,2017-12-16 19:33:20
+@BBCNews,Sat Dec 16 19:33:20 +0000 2017,Recovery truck engulfed in flames on M6 https://t.co/vjIhOijkO2,BBCNews,0.0,0.0,0.0,1.0,2017-12-16 19:33:20
+@BBCNews,Sat Dec 16 19:33:20 +0000 2017,Firefighter cancer mum's plea for immunotherapy funds https://t.co/kcujN8Dide,BBCNews,-0.6597,0.0,0.386,0.614,2017-12-16 19:33:20
+@BBCNews,Sat Dec 16 17:16:23 +0000 2017,Alex Rowley relinquishes Scottish Labour deputy leader role https://t.co/o65LtRTmiT,BBCNews,0.0,0.0,0.0,1.0,2017-12-16 17:16:23
+@BBCNews,Sat Dec 16 17:13:15 +0000 2017,Aberdeen school bus crash driver named by police https://t.co/91tww0TGwM,BBCNews,-0.4019,0.0,0.252,0.748,2017-12-16 17:13:15
+@BBCNews,Sat Dec 16 16:51:47 +0000 2017,RT @BBCScotlandNews: Alex Rowley has announced that he does not intend to resume the role of deputy leader of the Scottish Labour Party htt…,BBCNews,0.4019,0.105,0.0,0.895,2017-12-16 16:51:47
+@BBCNews,Sat Dec 16 16:40:12 +0000 2017,"""His sense of humour, his curiosity, his enthusiasm, that was our father"" - Laurence Wolff, son of renowned scienti… https://t.co/n0HSp8xRzj",BBCNews,0.7184,0.261,0.0,0.739,2017-12-16 16:40:12
+@BBCNews,Sat Dec 16 16:30:06 +0000 2017,"Not an easy gig ?? 
+https://t.co/PuP6cYIBoc",BBCNews,0.4404,0.367,0.0,0.633,2017-12-16 16:30:06
+@BBCNews,Sat Dec 16 16:13:07 +0000 2017,"London cafe offers selfie coffees 
+https://t.co/mm1kTQBtWp",BBCNews,0.0,0.0,0.0,1.0,2017-12-16 16:13:07
+@BBCNews,Sat Dec 16 15:40:23 +0000 2017,"RT @BBCSport: ""I don't want my daughter's first memories to be of me being a struggling, broken human being.""
+
+Former NFL player Larry John…",BBCNews,-0.7288,0.0,0.263,0.737,2017-12-16 15:40:23
+@BBCNews,Sat Dec 16 15:12:04 +0000 2017,"RT @BBCSport: The BBC Sports Personality of the Year 2017 will be crowned tomorrow night.
+
+But what are they key factors in the make-up of…",BBCNews,0.0,0.0,0.0,1.0,2017-12-16 15:12:04
+@BBCNews,Sat Dec 16 14:42:13 +0000 2017,"London's Royal Court theatre reverses decision to cancel production of Rita, Sue and Bob Too https://t.co/xJCGAdzSj9",BBCNews,-0.25,0.0,0.118,0.882,2017-12-16 14:42:13
+@BBCNews,Sat Dec 16 12:57:25 +0000 2017,The family that doesn't feel pain https://t.co/ZnI4rNXKDP,BBCNews,0.4023,0.311,0.0,0.689,2017-12-16 12:57:25
+@BBCNews,Sat Dec 16 12:51:08 +0000 2017,Ofsted chief Amanda Spielman receives 'venomous' threats https://t.co/DmRdtIkMkL,BBCNews,-0.4215,0.0,0.286,0.714,2017-12-16 12:51:08
+@BBCNews,Sat Dec 16 12:51:08 +0000 2017,Ofsted chief Amanda Spielman receives 'venomous' threats https://t.co/DmRdtIkMkL,BBCNews,-0.4215,0.0,0.286,0.714,2017-12-16 12:51:08
+@BBCNews,Sat Dec 16 12:30:25 +0000 2017,"RT @BBCBusiness: You can’t hide your head in the sand when you’ve got to make decisions about your money…. But to help you, why not take a…",BBCNews,0.25,0.092,0.058,0.85,2017-12-16 12:30:25
+@BBCNews,Sat Dec 16 11:53:46 +0000 2017,"Heinz Wolff, Great Egg Race presenter and scientist, dies https://t.co/DRaa7x32Wj",BBCNews,0.6249,0.313,0.0,0.687,2017-12-16 11:53:46
+@BBCNews,Sat Dec 16 11:36:39 +0000 2017,RT @BBCRealityCheck: The stats don’t lie. Find out how we knew who was likely to make the @bbcstrictly final. https://t.co/zz87rjIKHB,BBCNews,0.0,0.0,0.0,1.0,2017-12-16 11:36:39
+@BBCNews,Sat Dec 16 10:53:37 +0000 2017,This woman is wonderful ?? https://t.co/59EbwP7LIa,BBCNews,0.5719,0.425,0.0,0.575,2017-12-16 10:53:37
+@BBCNews,Sat Dec 16 10:52:45 +0000 2017,Tewkesbury homes still without water after pipe burst https://t.co/k8aDTe28op,BBCNews,0.0,0.0,0.0,1.0,2017-12-16 10:52:45
+@BBCNews,Sat Dec 16 10:46:55 +0000 2017,Hart in Hampshire 'best place to live in UK' https://t.co/pRSIRiNBxg,BBCNews,0.6369,0.318,0.0,0.682,2017-12-16 10:46:55
+@BBCNews,Sat Dec 16 10:33:02 +0000 2017,"Boy, 12, dies after being hit by bus in Brondesbury Park https://t.co/uE9aZUqLep",BBCNews,0.0,0.0,0.0,1.0,2017-12-16 10:33:02
+@BBCNews,Sat Dec 16 10:05:14 +0000 2017,Salford fire deaths: Hope siblings are buried 'side-by-side' https://t.co/SJImA9gdxK,BBCNews,0.128,0.236,0.195,0.569,2017-12-16 10:05:14
+@BBCNews,Sat Dec 16 10:02:05 +0000 2017,David Cameron to promote UK-China 'golden era' https://t.co/9IJCK7kPUq,BBCNews,0.3818,0.271,0.0,0.729,2017-12-16 10:02:05
+@BBCNews,Sat Dec 16 09:40:06 +0000 2017,"RT @BBCNewsbeat: I'm a Celebrity's @iainlee says the word bullying is ""a bit strong"" to describe what happened to him in the jungle. https:…",BBCNews,-0.1531,0.117,0.138,0.745,2017-12-16 09:40:06
+@BBCNews,Sat Dec 16 09:39:46 +0000 2017,"RT @BBCWorld: The men say they aren't gay, but they do love each other
+https://t.co/85E2FOweuK",BBCNews,0.7783,0.293,0.0,0.707,2017-12-16 09:39:46
+@BBCNews,Sat Dec 16 08:14:50 +0000 2017,Iain Lee addresses I'm a Celeb bullying claims https://t.co/NG3K3En7s1,BBCNews,-0.5994,0.0,0.358,0.642,2017-12-16 08:14:50
+@BBCNews,Sat Dec 16 08:12:02 +0000 2017,"RT @BBCSport: ? @BBCOne 
+? 6.45pm, Sunday
+? 2017 #SPOTY
+
+The winner of the Unsung Hero Award will also be announced tomorrow night, find ou…",BBCNews,0.8979,0.365,0.0,0.635,2017-12-16 08:12:02
+@BBCNews,Sat Dec 16 08:11:02 +0000 2017,"RT @BBCSport: Floyd Mayweather and Conor McGregor's much-hyped Las Vegas boxing match generated more than £450m.
+
+More: https://t.co/UWsL8w…",BBCNews,0.0,0.0,0.0,1.0,2017-12-16 08:11:02
+@BBCNews,Sat Dec 16 07:47:32 +0000 2017,Royal Court U-turn over play axed amid harassment claims https://t.co/Tm1GUYAWUe,BBCNews,-0.5267,0.158,0.382,0.461,2017-12-16 07:47:32
+@BBCNews,Sat Dec 16 07:27:49 +0000 2017,Former PM takes on UK-China investment role https://t.co/A1rZUIra7b,BBCNews,0.0,0.0,0.0,1.0,2017-12-16 07:27:49
+@BBCNews,Sat Dec 16 03:51:30 +0000 2017,Strictly Come Dancing 2017 champion to be crowned https://t.co/Rnp3Pi5nSI,BBCNews,0.5994,0.328,0.0,0.672,2017-12-16 03:51:30
+@BBCNews,Sat Dec 16 03:16:05 +0000 2017,'Stay at home' warning over ice on roads https://t.co/C5nTKIZi86,BBCNews,-0.34,0.0,0.231,0.769,2017-12-16 03:16:05
+@BBCNews,Sat Dec 16 03:16:05 +0000 2017,Southend fire crew warned over cling film 'joke' https://t.co/LsAjwF6eDb,BBCNews,-0.5423,0.0,0.391,0.609,2017-12-16 03:16:05
